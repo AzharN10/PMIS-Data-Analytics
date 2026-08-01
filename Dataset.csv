@@ -1,0 +1,801 @@
+﻿Order ID,Order Date,Customer ID,Restaurant Name,Food Category,Order Value,Delivery Time,Rating,Payment Method,City,Order Status
+ORD00001,24-11-2025,CUST0029,The Curry Leaf,Fast Food,428.03,,,UPI,Mumbai,Pending
+ORD00002,13-12-2025,CUST0190,Paratha Point,Pizza,163.86,28,3.1,Wallet,Delhi,Delivered
+ORD00003,14-01-2025,CUST0144,Puneri Kitchen,Pizza,424.21,32,4.5,UPI,Pune,Delivered
+ORD00004,23-03-2025,CUST0179,Bengal Bhoj,Desserts,334.56,36,2.8,Cash on Delivery,Kolkata,Delivered
+ORD00005,19-02-2025,CUST0092,Idli Express,Desserts,1233.84,,,Cash on Delivery,Chennai,Pending
+ORD00006,02-10-2025,CUST0032,Kolkata Kathi Rolls,Street Food,524.59,,,Wallet,Kolkata,Pending
+ORD00007,05-07-2025,CUST0148,Pune Punch,North Indian,1032.54,33,5,Credit Card,Pune,Delivered
+ORD00008,21-02-2025,CUST0098,Hyderabadi Hut,Beverages,344.46,28,4.2,UPI,Hyderabad,Delivered
+ORD00009,08-11-2025,CUST0163,Filter Coffee Co,Fast Food,345.5,32,5,Wallet,Bangalore,Delivered
+ORD00010,23-04-2025,CUST0176,Chennai Chettinad,Fast Food,1254.09,35,3.5,UPI,Chennai,Delivered
+ORD00011,19-04-2025,CUST0234,Marina Meals,Biryani,665.97,,,Cash on Delivery,Chennai,Pending
+ORD00012,15-03-2025,CUST0068,Dosa Delight,Street Food,863.79,,,Wallet,Bangalore,Pending
+ORD00013,08-08-2025,CUST0230,Bengal Bhoj,Fast Food,1496.31,0,,Wallet,Kolkata,Cancelled
+ORD00014,10-09-2025,CUST0024,Bombay Bites,Chinese,985.88,58,3.6,UPI,Mumbai,Delivered
+ORD00015,17-07-2025,CUST0098,Kathiyawadi Kitchen,Desserts,1460.09,75,2.5,UPI,Ahmedabad,Delivered
+ORD00016,16-12-2025,CUST0227,Nizam's Kitchen,South Indian,525.03,0,,Cash on Delivery,Hyderabad,Cancelled
+ORD00017,02-01-2025,CUST0245,Pearl City Eats,Chinese,820.6,70,4.1,Wallet,Hyderabad,Delivered
+ORD00018,08-11-2025,CUST0051,Silicon Spice,Chinese,864.34,74,3.8,UPI,Bangalore,Delivered
+ORD00019,03-11-2025,CUST0083,Ahmedabad Chaat,South Indian,1402.16,66,3.3,UPI,Ahmedabad,Delivered
+ORD00020,04-05-2025,CUST0225,Delhi Darbar,Biryani,1246.11,49,4.4,Credit Card,Delhi,Delivered
+ORD00021,04-12-2025,CUST0122,Silicon Spice,Street Food,1323.96,28,4.8,Credit Card,Bangalore,Delivered
+ORD00022,09-06-2025,CUST0103,Filter Kaapi Corner,Street Food,743.05,0,,Credit Card,Chennai,Cancelled
+ORD00023,02-02-2025,CUST0087,Pav Bhaji Junction,Street Food,437.56,0,,UPI,Mumbai,Cancelled
+ORD00024,06-02-2025,CUST0182,Spice Route,South Indian,1369.48,36,2.7,Credit Card,Mumbai,Delivered
+ORD00025,23-05-2025,CUST0172,Gujarati Thali House,Street Food,302.59,51,3.7,Cash on Delivery,Ahmedabad,Delivered
+ORD00026,28-07-2025,CUST0049,Delhi Darbar,Pizza,608.93,44,4.7,UPI,Delhi,Delivered
+ORD00027,11-12-2025,CUST0168,Delhi Darbar,Pizza,1124.93,70,2.8,Credit Card,Delhi,Delivered
+ORD00028,08-04-2025,CUST0138,Gujarati Thali House,Pizza,373.21,30,4.7,UPI,Ahmedabad,Delivered
+ORD00029,15-08-2025,CUST0207,Delhi Darbar,Street Food,1273.72,74,4.4,Credit Card,Delhi,Delivered
+ORD00030,27-03-2025,CUST0105,Dhokla Den,Fast Food,1313.22,25,3.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00031,16-05-2025,CUST0238,Sabarmati Snacks,Pizza,1081.3,,,Wallet,Ahmedabad,Pending
+ORD00032,05-12-2025,CUST0184,Gujarati Thali House,Fast Food,529.46,52,4.3,UPI,Ahmedabad,Delivered
+ORD00033,10-06-2025,CUST0015,Pav Bhaji Junction,Biryani,813.93,48,2.9,Wallet,Mumbai,Delivered
+ORD00034,11-02-2025,CUST0218,Namma Bengaluru Cafe,Continental,213.79,30,3.5,Wallet,Bangalore,Delivered
+ORD00035,07-05-2025,CUST0149,Pav Bhaji Junction,South Indian,698.53,51,3.8,Debit Card,Mumbai,Delivered
+ORD00036,15-04-2025,CUST0172,Marina Meals,Desserts,666.18,,,Debit Card,Chennai,Pending
+ORD00037,23-08-2025,CUST0081,Delhi Darbar,Biryani,977.2,21,2.7,Credit Card,Delhi,Delivered
+ORD00038,17-09-2025,CUST0068,Silicon Spice,South Indian,1333.39,33,2.9,Wallet,Bangalore,Delivered
+ORD00039,27-12-2025,CUST0078,Pav Bhaji Junction,Desserts,1405.82,75,4.7,Debit Card,Mumbai,Delivered
+ORD00040,01-03-2025,CUST0228,Paratha Point,Chinese,495.84,28,4.3,Credit Card,Delhi,Delivered
+ORD00041,18-12-2025,CUST0163,Pearl City Eats,Biryani,466.55,18,2.7,Cash on Delivery,Hyderabad,Delivered
+ORD00042,22-05-2025,CUST0012,The Curry Leaf,Chinese,999.22,25,4.4,Wallet,Mumbai,Delivered
+ORD00043,28-12-2025,CUST0110,Bombay Bites,South Indian,1424.17,,,Credit Card,Mumbai,Pending
+ORD00044,07-10-2025,CUST0010,Idli Express,Street Food,324.37,0,,UPI,Chennai,Cancelled
+ORD00045,07-06-2025,CUST0094,The Curry Leaf,Fast Food,1061.25,,,UPI,Mumbai,Pending
+ORD00046,01-07-2025,CUST0200,Howrah Hotpot,Chinese,1397.55,0,,Credit Card,Kolkata,Cancelled
+ORD00047,01-04-2025,CUST0226,Kolkata Kathi Rolls,Chinese,1136.46,65,4.8,Credit Card,Kolkata,Delivered
+ORD00048,17-05-2025,CUST0041,Butter Chicken House,North Indian,1304.86,0,,Credit Card,Delhi,Cancelled
+ORD00049,24-08-2025,CUST0090,Charminar Chow,Fast Food,152.66,0,,Cash on Delivery,Hyderabad,Cancelled
+ORD00050,18-06-2025,CUST0072,Chandni Chowk Eats,Beverages,1005.24,58,5,Wallet,Delhi,Delivered
+ORD00051,19-06-2025,CUST0241,Bombay Bites,Desserts,366.42,17,2.8,Cash on Delivery,Mumbai,Delivered
+ORD00052,26-06-2025,CUST0187,Filter Kaapi Corner,Continental,1478.25,39,4.7,Credit Card,Chennai,Delivered
+ORD00053,11-05-2025,CUST0012,Kolkata Kathi Rolls,Street Food,1397.29,58,4.3,Credit Card,Kolkata,Delivered
+ORD00054,06-07-2025,CUST0111,Chandni Chowk Eats,Continental,553.2,22,4.3,Debit Card,Delhi,Delivered
+ORD00055,17-09-2025,CUST0080,Bengal Bhoj,Pizza,1082.15,23,3,Cash on Delivery,Kolkata,Delivered
+ORD00056,13-12-2025,CUST0192,Filter Coffee Co,Continental,535.31,68,2.5,Debit Card,Bangalore,Delivered
+ORD00057,18-04-2025,CUST0111,Filter Kaapi Corner,Biryani,730.18,0,,Wallet,Chennai,Cancelled
+ORD00058,31-08-2025,CUST0204,Namma Bengaluru Cafe,Desserts,831.32,,,Wallet,Bangalore,Pending
+ORD00059,21-06-2025,CUST0024,Shaniwar Peth Snacks,Fast Food,1233.06,0,,UPI,Pune,Cancelled
+ORD00060,24-01-2025,CUST0063,Kathiyawadi Kitchen,South Indian,748.47,,,Wallet,Ahmedabad,Pending
+ORD00061,10-04-2025,CUST0184,Mishti Corner,Pizza,456.7,,,UPI,Kolkata,Pending
+ORD00062,24-02-2025,CUST0200,Park Street Eats,Chinese,1229.67,,,Wallet,Kolkata,Pending
+ORD00063,26-08-2025,CUST0013,Pune Punch,Biryani,304.01,57,3.8,Wallet,Pune,Delivered
+ORD00064,01-11-2025,CUST0082,Kathiyawadi Kitchen,Street Food,708.9,43,4.7,Cash on Delivery,Ahmedabad,Delivered
+ORD00065,19-08-2025,CUST0067,Shaniwar Peth Snacks,Street Food,788.74,0,,Debit Card,Pune,Cancelled
+ORD00066,14-08-2025,CUST0020,Charminar Chow,Desserts,583.47,20,2.8,Credit Card,Hyderabad,Delivered
+ORD00067,16-07-2025,CUST0178,Dosa Delight,South Indian,692.52,49,3.7,UPI,Bangalore,Delivered
+ORD00068,16-04-2025,CUST0214,Mishti Corner,Continental,1425.57,69,4.7,Wallet,Kolkata,Delivered
+ORD00069,14-07-2025,CUST0123,The Curry Leaf,Desserts,1159.8,72,4.9,Cash on Delivery,Mumbai,Delivered
+ORD00070,03-10-2025,CUST0192,Deccan Delicacies,Fast Food,496.65,16,3.5,Cash on Delivery,Pune,Delivered
+ORD00071,26-03-2025,CUST0216,Gujarati Thali House,Continental,857.09,52,3.9,UPI,Ahmedabad,Delivered
+ORD00072,12-02-2025,CUST0165,Park Street Eats,Biryani,370.79,39,3.3,Cash on Delivery,Kolkata,Delivered
+ORD00073,17-06-2025,CUST0087,Bengal Bhoj,Pizza,468.13,45,2.5,Wallet,Kolkata,Delivered
+ORD00074,27-01-2025,CUST0244,Marina Meals,South Indian,1198.1,,,UPI,Chennai,Pending
+ORD00075,16-01-2025,CUST0244,Misal House,North Indian,977.44,0,,Credit Card,Pune,Cancelled
+ORD00076,31-08-2025,CUST0172,Paratha Point,Fast Food,761.75,64,3.4,Wallet,Delhi,Delivered
+ORD00077,07-11-2025,CUST0247,Karim's Corner,Desserts,269.18,74,3.3,Cash on Delivery,Delhi,Delivered
+ORD00078,23-07-2025,CUST0242,Pune Punch,Continental,1073.05,,,Credit Card,Pune,Pending
+ORD00079,22-02-2025,CUST0179,Pearl City Eats,South Indian,1218.79,65,2.6,Wallet,Hyderabad,Delivered
+ORD00080,08-08-2025,CUST0170,Chennai Chettinad,Street Food,1013.61,69,3.6,Cash on Delivery,Chennai,Delivered
+ORD00081,24-02-2025,CUST0111,Filter Kaapi Corner,Chinese,720.97,,,Wallet,Chennai,Pending
+ORD00082,30-11-2025,CUST0070,Dhokla Den,Pizza,1259.51,32,3.3,Credit Card,Ahmedabad,Delivered
+ORD00083,14-02-2025,CUST0072,Gujarati Thali House,Biryani,906.39,,,Cash on Delivery,Ahmedabad,Pending
+ORD00084,22-06-2025,CUST0008,Sabarmati Snacks,Chinese,792.82,66,3.1,Debit Card,Ahmedabad,Delivered
+ORD00085,02-11-2025,CUST0180,Pearl City Eats,North Indian,832.95,0,,UPI,Hyderabad,Cancelled
+ORD00086,04-05-2025,CUST0185,Mishti Corner,Street Food,1166.27,,,Cash on Delivery,Kolkata,Pending
+ORD00087,27-11-2025,CUST0183,Dhokla Den,North Indian,248.41,0,,Cash on Delivery,Ahmedabad,Cancelled
+ORD00088,21-12-2025,CUST0063,Pearl City Eats,Beverages,773.1,37,3.6,Wallet,Hyderabad,Delivered
+ORD00089,19-06-2025,CUST0091,Sabarmati Snacks,Desserts,466.94,61,3,UPI,Ahmedabad,Delivered
+ORD00090,02-10-2025,CUST0244,Dosa Delight,Fast Food,1139.27,61,4,Wallet,Bangalore,Delivered
+ORD00091,02-11-2025,CUST0073,Karim's Corner,Desserts,433.93,0,,Debit Card,Delhi,Cancelled
+ORD00092,08-01-2025,CUST0182,Silicon Spice,North Indian,1464.53,33,4.2,Credit Card,Bangalore,Delivered
+ORD00093,23-11-2025,CUST0223,Ahmedabad Chaat,North Indian,912.21,45,3.6,Credit Card,Ahmedabad,Delivered
+ORD00094,27-01-2025,CUST0065,Ahmedabad Chaat,South Indian,672.98,51,4.1,UPI,Ahmedabad,Delivered
+ORD00095,19-03-2025,CUST0039,Biryani House,Fast Food,283.46,41,4,Wallet,Hyderabad,Delivered
+ORD00096,26-04-2025,CUST0199,Mishti Corner,Biryani,530.35,42,3.3,Wallet,Kolkata,Delivered
+ORD00097,31-01-2025,CUST0157,Karim's Corner,Fast Food,485.21,25,3.1,Wallet,Delhi,Delivered
+ORD00098,08-02-2025,CUST0041,Sea View Kitchen,Biryani,1071.33,33,2.6,Debit Card,Mumbai,Delivered
+ORD00099,28-12-2025,CUST0073,Ahmedabad Chaat,Fast Food,1395,65,4.1,Credit Card,Ahmedabad,Delivered
+ORD00100,06-08-2025,CUST0030,Misal House,Desserts,1260.75,18,2.9,Debit Card,Pune,Delivered
+ORD00101,01-11-2025,CUST0192,Hyderabadi Hut,South Indian,766.8,59,3.5,Debit Card,Hyderabad,Delivered
+ORD00102,14-09-2025,CUST0139,Dhokla Den,South Indian,945.29,62,3.3,Debit Card,Ahmedabad,Delivered
+ORD00103,14-01-2025,CUST0024,Puneri Kitchen,Continental,1432.09,58,4.6,Wallet,Pune,Delivered
+ORD00104,21-01-2025,CUST0196,Garden City Grill,Street Food,1019.08,26,5,Cash on Delivery,Bangalore,Delivered
+ORD00105,22-11-2025,CUST0209,Ahmedabad Chaat,Biryani,600.19,35,4.2,Credit Card,Ahmedabad,Delivered
+ORD00106,18-06-2025,CUST0106,Sabarmati Snacks,Pizza,1242.72,17,3.6,Debit Card,Ahmedabad,Delivered
+ORD00107,10-05-2025,CUST0083,Butter Chicken House,Street Food,1258.4,57,4.7,Cash on Delivery,Delhi,Delivered
+ORD00108,31-07-2025,CUST0014,Puneri Kitchen,Beverages,979.23,55,3.6,UPI,Pune,Delivered
+ORD00109,15-04-2025,CUST0069,Silicon Spice,Biryani,1335.57,22,2.6,Wallet,Bangalore,Delivered
+ORD00110,03-05-2025,CUST0182,Silicon Spice,Street Food,138.87,20,3.1,UPI,Bangalore,Delivered
+ORD00111,25-08-2025,CUST0243,Karim's Corner,Biryani,1407.06,47,4.3,Cash on Delivery,Delhi,Delivered
+ORD00112,05-09-2025,CUST0121,Deccan Delicacies,Street Food,319.61,0,,Wallet,Pune,Cancelled
+ORD00113,18-09-2025,CUST0192,Namma Bengaluru Cafe,Desserts,1186.29,41,3.3,Wallet,Bangalore,Delivered
+ORD00114,17-05-2025,CUST0211,The Curry Leaf,Desserts,1275.72,57,3.7,Credit Card,Mumbai,Delivered
+ORD00115,17-08-2025,CUST0138,Sabarmati Snacks,Beverages,881.65,39,3.6,Debit Card,Ahmedabad,Delivered
+ORD00116,07-04-2025,CUST0179,Puneri Kitchen,Pizza,442.32,41,2.6,Cash on Delivery,Pune,Delivered
+ORD00117,28-12-2025,CUST0234,Mishti Corner,Chinese,803.55,23,3.8,Wallet,Kolkata,Delivered
+ORD00118,19-06-2025,CUST0223,Butter Chicken House,South Indian,845.81,15,4.3,Cash on Delivery,Delhi,Delivered
+ORD00119,02-12-2025,CUST0249,Namma Bengaluru Cafe,Biryani,1198.5,36,4.1,Cash on Delivery,Bangalore,Delivered
+ORD00120,29-11-2025,CUST0021,Idli Express,Pizza,1436.71,,,Cash on Delivery,Chennai,Pending
+ORD00121,05-10-2025,CUST0010,Karim's Corner,Desserts,1496.45,,,UPI,Delhi,Pending
+ORD00122,11-08-2025,CUST0026,Butter Chicken House,Chinese,1077.72,17,3.3,UPI,Delhi,Delivered
+ORD00123,31-05-2025,CUST0092,Filter Kaapi Corner,Chinese,456.99,51,4.2,Credit Card,Chennai,Delivered
+ORD00124,29-03-2025,CUST0045,Paratha Point,Pizza,975.2,0,,Cash on Delivery,Delhi,Cancelled
+ORD00125,26-10-2025,CUST0037,Deccan Delicacies,Desserts,754.21,,,UPI,Pune,Pending
+ORD00126,27-08-2025,CUST0231,Pearl City Eats,Chinese,221.93,52,3.2,Cash on Delivery,Hyderabad,Delivered
+ORD00127,20-12-2025,CUST0065,Sabarmati Snacks,Fast Food,1499.14,45,2.8,Cash on Delivery,Ahmedabad,Delivered
+ORD00128,20-10-2025,CUST0092,Nizam's Kitchen,North Indian,1469.56,,,Cash on Delivery,Hyderabad,Pending
+ORD00129,21-05-2025,CUST0003,Pav Bhaji Junction,Biryani,1269.32,64,4.5,Wallet,Mumbai,Delivered
+ORD00130,30-06-2025,CUST0057,Puneri Kitchen,Desserts,1055.31,,,Credit Card,Pune,Pending
+ORD00131,18-11-2025,CUST0025,The Curry Leaf,Biryani,166.04,61,2.8,Debit Card,Mumbai,Delivered
+ORD00132,17-06-2025,CUST0192,Park Street Eats,Fast Food,302.38,71,4.9,Wallet,Kolkata,Delivered
+ORD00133,14-09-2025,CUST0234,Charminar Chow,Desserts,1381.39,66,3.2,Debit Card,Hyderabad,Delivered
+ORD00134,28-02-2025,CUST0120,Karim's Corner,Fast Food,1306.99,,,Cash on Delivery,Delhi,Pending
+ORD00135,13-10-2025,CUST0094,Butter Chicken House,North Indian,484.95,44,3.4,Debit Card,Delhi,Delivered
+ORD00136,27-10-2025,CUST0098,Chennai Chettinad,Fast Food,770.64,71,4.9,Debit Card,Chennai,Delivered
+ORD00137,09-11-2025,CUST0057,Butter Chicken House,Desserts,1015.95,23,2.6,UPI,Delhi,Delivered
+ORD00138,05-06-2025,CUST0127,Delhi Darbar,Fast Food,1344.42,0,,Cash on Delivery,Delhi,Cancelled
+ORD00139,21-08-2025,CUST0095,Howrah Hotpot,Chinese,1341.87,,,UPI,Kolkata,Pending
+ORD00140,08-09-2025,CUST0158,Bengal Bhoj,North Indian,1072.59,0,,Cash on Delivery,Kolkata,Cancelled
+ORD00141,16-08-2025,CUST0244,Shaniwar Peth Snacks,South Indian,1473.68,49,4.8,Debit Card,Pune,Delivered
+ORD00142,01-02-2025,CUST0102,Charminar Chow,South Indian,1429.63,44,2.7,Credit Card,Hyderabad,Delivered
+ORD00143,25-11-2025,CUST0164,Bombay Bites,Beverages,456.13,0,,Wallet,Mumbai,Cancelled
+ORD00144,16-04-2025,CUST0018,Puneri Kitchen,Fast Food,1242.01,0,,Debit Card,Pune,Cancelled
+ORD00145,17-03-2025,CUST0202,The Curry Leaf,Chinese,1482.79,31,4.5,UPI,Mumbai,Delivered
+ORD00146,05-12-2025,CUST0222,Spice Route,North Indian,614.37,30,4,UPI,Mumbai,Delivered
+ORD00147,31-03-2025,CUST0068,Spice Route,Pizza,846,,,UPI,Mumbai,Pending
+ORD00148,01-09-2025,CUST0115,Idli Express,Continental,270.49,29,4.9,UPI,Chennai,Delivered
+ORD00149,04-12-2025,CUST0134,Hyderabadi Hut,North Indian,203.94,69,3.5,UPI,Hyderabad,Delivered
+ORD00150,09-09-2025,CUST0183,Ahmedabad Chaat,South Indian,564.51,0,,UPI,Ahmedabad,Cancelled
+ORD00151,06-03-2025,CUST0071,Filter Kaapi Corner,Continental,852.17,47,4,UPI,Chennai,Delivered
+ORD00152,26-12-2025,CUST0030,Deccan Delicacies,Biryani,1345.57,36,4.6,Cash on Delivery,Pune,Delivered
+ORD00153,01-08-2025,CUST0187,Chandni Chowk Eats,Pizza,551.28,38,4.9,Cash on Delivery,Delhi,Delivered
+ORD00154,04-02-2025,CUST0024,Delhi Darbar,Pizza,253.26,,,Debit Card,Delhi,Pending
+ORD00155,08-03-2025,CUST0143,Pav Bhaji Junction,Street Food,895.12,,,UPI,Mumbai,Pending
+ORD00156,30-07-2025,CUST0091,Kolkata Kathi Rolls,Desserts,948.57,21,3.9,Credit Card,Kolkata,Delivered
+ORD00157,21-03-2025,CUST0169,Gujarati Thali House,South Indian,603.16,38,2.8,Debit Card,Ahmedabad,Delivered
+ORD00158,21-10-2025,CUST0058,Howrah Hotpot,Continental,966.73,,,Wallet,Kolkata,Pending
+ORD00159,14-01-2025,CUST0156,Biryani House,Chinese,497.11,34,4.8,Debit Card,Hyderabad,Delivered
+ORD00160,04-01-2025,CUST0047,Filter Coffee Co,Pizza,216.03,,,UPI,Bangalore,Pending
+ORD00161,16-02-2025,CUST0192,Deccan Delicacies,Pizza,746.03,0,,Debit Card,Pune,Cancelled
+ORD00162,09-06-2025,CUST0185,Idli Express,Continental,237.24,24,2.9,Wallet,Chennai,Delivered
+ORD00163,26-01-2025,CUST0173,Chandni Chowk Eats,Biryani,1033.48,53,3.6,Debit Card,Delhi,Delivered
+ORD00164,21-04-2025,CUST0194,Chandni Chowk Eats,Pizza,273.03,,,Wallet,Delhi,Pending
+ORD00165,07-09-2025,CUST0135,Biryani House,Fast Food,665.46,18,2.5,Debit Card,Hyderabad,Delivered
+ORD00166,19-04-2025,CUST0197,Silicon Spice,Desserts,572.81,46,4.4,Credit Card,Bangalore,Delivered
+ORD00167,08-03-2025,CUST0098,Puneri Kitchen,Street Food,1270.03,37,2.7,UPI,Pune,Delivered
+ORD00168,12-08-2025,CUST0005,Ahmedabad Chaat,Beverages,914.55,40,4.3,Cash on Delivery,Ahmedabad,Delivered
+ORD00169,29-05-2025,CUST0030,Kolkata Kathi Rolls,Beverages,357.18,44,4.6,Debit Card,Kolkata,Delivered
+ORD00170,15-02-2025,CUST0112,Karim's Corner,Pizza,932.64,20,3.5,Debit Card,Delhi,Delivered
+ORD00171,23-06-2025,CUST0057,Marina Meals,South Indian,824.47,48,3.8,Debit Card,Chennai,Delivered
+ORD00172,29-06-2025,CUST0187,Dosa Delight,South Indian,322.09,0,,Credit Card,Bangalore,Cancelled
+ORD00173,05-11-2025,CUST0040,Karim's Corner,Biryani,760.26,63,3.9,Wallet,Delhi,Delivered
+ORD00174,26-11-2025,CUST0163,South Curry Co,Chinese,726.87,43,4.1,Debit Card,Chennai,Delivered
+ORD00175,30-10-2025,CUST0015,Idli Express,South Indian,548.36,17,2.6,Debit Card,Chennai,Delivered
+ORD00176,09-02-2025,CUST0166,Paratha Point,Continental,819.75,52,3.9,UPI,Delhi,Delivered
+ORD00177,19-08-2025,CUST0233,Shaniwar Peth Snacks,Continental,776.37,0,,UPI,Pune,Cancelled
+ORD00178,19-08-2025,CUST0027,Chennai Chettinad,Street Food,1011.66,30,4.3,Cash on Delivery,Chennai,Delivered
+ORD00179,26-09-2025,CUST0134,Silicon Spice,Beverages,1386.75,41,4.4,Wallet,Bangalore,Delivered
+ORD00180,27-01-2025,CUST0203,Chennai Chettinad,Beverages,250.42,,,Cash on Delivery,Chennai,Pending
+ORD00181,26-05-2025,CUST0065,Silicon Spice,South Indian,924.18,0,,Debit Card,Bangalore,Cancelled
+ORD00182,08-06-2025,CUST0248,Park Street Eats,Continental,1098.19,34,3.9,Debit Card,Kolkata,Delivered
+ORD00183,07-03-2025,CUST0172,Butter Chicken House,Street Food,619.32,34,3,Credit Card,Delhi,Delivered
+ORD00184,24-06-2025,CUST0243,Gujarati Thali House,Fast Food,1499.97,0,,UPI,Ahmedabad,Cancelled
+ORD00185,01-06-2025,CUST0217,Paratha Point,Street Food,1272.47,17,4.2,Wallet,Delhi,Delivered
+ORD00186,09-03-2025,CUST0153,Park Street Eats,Chinese,369.57,,,Wallet,Kolkata,Pending
+ORD00187,26-03-2025,CUST0185,Ahmedabad Chaat,Pizza,622.73,,,Credit Card,Ahmedabad,Pending
+ORD00188,16-08-2025,CUST0157,Hyderabadi Hut,Fast Food,856.94,66,4.5,Credit Card,Hyderabad,Delivered
+ORD00189,08-07-2025,CUST0174,Dhokla Den,Desserts,1193.81,48,3.5,Credit Card,Ahmedabad,Delivered
+ORD00190,13-04-2025,CUST0206,Silicon Spice,North Indian,1004.83,38,3.9,UPI,Bangalore,Delivered
+ORD00191,31-12-2025,CUST0217,Chandni Chowk Eats,South Indian,1173.1,43,4.8,Credit Card,Delhi,Delivered
+ORD00192,12-08-2025,CUST0024,Deccan Delicacies,Beverages,1404.05,18,3.5,Debit Card,Pune,Delivered
+ORD00193,01-05-2025,CUST0099,Chandni Chowk Eats,Fast Food,158.9,68,4.3,Debit Card,Delhi,Delivered
+ORD00194,16-03-2025,CUST0036,The Curry Leaf,Biryani,1080.58,0,,Cash on Delivery,Mumbai,Cancelled
+ORD00195,18-08-2025,CUST0158,Bombay Bites,North Indian,473.18,24,3.9,Wallet,Mumbai,Delivered
+ORD00196,28-09-2025,CUST0109,Chandni Chowk Eats,Fast Food,535.59,30,3.5,Wallet,Delhi,Delivered
+ORD00197,23-08-2025,CUST0017,Butter Chicken House,Continental,859.75,,,Wallet,Delhi,Pending
+ORD00198,22-10-2025,CUST0062,Silicon Spice,Pizza,122.16,30,3.9,Credit Card,Bangalore,Delivered
+ORD00199,07-12-2025,CUST0172,Paratha Point,Beverages,213.4,49,3.8,Wallet,Delhi,Delivered
+ORD00200,11-10-2025,CUST0006,Mishti Corner,North Indian,997.23,31,4.4,Debit Card,Kolkata,Delivered
+ORD00201,04-02-2025,CUST0089,Pune Punch,Continental,1134.56,23,2.6,Wallet,Pune,Delivered
+ORD00202,23-06-2025,CUST0209,Garden City Grill,Biryani,991.8,23,2.7,Cash on Delivery,Bangalore,Delivered
+ORD00203,19-01-2025,CUST0076,Pune Punch,Fast Food,1342.39,74,3.3,Cash on Delivery,Pune,Delivered
+ORD00204,06-10-2025,CUST0122,Biryani House,Fast Food,514.83,64,2.6,Debit Card,Hyderabad,Delivered
+ORD00205,20-05-2025,CUST0032,Filter Kaapi Corner,Pizza,1145.76,36,4.9,Cash on Delivery,Chennai,Delivered
+ORD00206,21-12-2025,CUST0128,Idli Express,Desserts,1225.58,,,Cash on Delivery,Chennai,Pending
+ORD00207,10-02-2025,CUST0111,Filter Coffee Co,Desserts,563.27,35,4.2,Debit Card,Bangalore,Delivered
+ORD00208,17-08-2025,CUST0155,Park Street Eats,Biryani,605.13,61,4.7,Debit Card,Kolkata,Delivered
+ORD00209,11-11-2025,CUST0112,Biryani House,South Indian,1046.23,38,3.8,Credit Card,Hyderabad,Delivered
+ORD00210,16-01-2025,CUST0037,Ahmedabad Chaat,Chinese,212.78,56,3.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00211,18-10-2025,CUST0009,Garden City Grill,Beverages,633.38,19,3.9,Wallet,Bangalore,Delivered
+ORD00212,07-07-2025,CUST0102,South Curry Co,Fast Food,1445.52,62,3,Wallet,Chennai,Delivered
+ORD00213,18-07-2025,CUST0234,Chandni Chowk Eats,Desserts,1091.57,0,,Wallet,Delhi,Cancelled
+ORD00214,27-05-2025,CUST0178,Gujarati Thali House,South Indian,307.31,43,2.9,Cash on Delivery,Ahmedabad,Delivered
+ORD00215,14-02-2025,CUST0208,South Curry Co,South Indian,879,72,3.2,Credit Card,Chennai,Delivered
+ORD00216,31-12-2025,CUST0182,Silicon Spice,Street Food,429.45,0,,Credit Card,Bangalore,Cancelled
+ORD00217,02-05-2025,CUST0203,Ahmedabad Chaat,Beverages,884.55,44,4.5,Wallet,Ahmedabad,Delivered
+ORD00218,08-03-2025,CUST0157,Delhi Darbar,Desserts,669.46,,,Cash on Delivery,Delhi,Pending
+ORD00219,27-09-2025,CUST0106,Howrah Hotpot,South Indian,292.95,56,2.7,Cash on Delivery,Kolkata,Delivered
+ORD00220,15-12-2025,CUST0133,Marina Meals,Street Food,1002.92,0,,Credit Card,Chennai,Cancelled
+ORD00221,10-08-2025,CUST0129,Bombay Bites,Street Food,331.16,0,,Credit Card,Mumbai,Cancelled
+ORD00222,15-06-2025,CUST0240,Shaniwar Peth Snacks,Street Food,1355,20,3.1,Wallet,Pune,Delivered
+ORD00223,21-05-2025,CUST0033,Pearl City Eats,Street Food,248.93,,,Credit Card,Hyderabad,Pending
+ORD00224,31-10-2025,CUST0242,Dosa Delight,Continental,1114.47,36,4.6,Wallet,Bangalore,Delivered
+ORD00225,22-01-2025,CUST0212,Bombay Bites,North Indian,1428.99,51,3.2,Credit Card,Mumbai,Delivered
+ORD00226,20-10-2025,CUST0107,Sea View Kitchen,Street Food,519.75,45,3.1,Cash on Delivery,Mumbai,Delivered
+ORD00227,02-06-2025,CUST0117,Delhi Darbar,Chinese,726.66,44,3,Wallet,Delhi,Delivered
+ORD00228,15-03-2025,CUST0081,South Curry Co,Pizza,300.46,47,3.9,Debit Card,Chennai,Delivered
+ORD00229,04-05-2025,CUST0120,Chandni Chowk Eats,Biryani,462.13,18,3.2,Cash on Delivery,Delhi,Delivered
+ORD00230,12-11-2025,CUST0108,Misal House,Beverages,1408.58,,,Debit Card,Pune,Pending
+ORD00231,08-04-2025,CUST0196,Garden City Grill,Street Food,764.2,46,2.6,Cash on Delivery,Bangalore,Delivered
+ORD00232,16-09-2025,CUST0118,Misal House,Continental,607,33,3.7,Cash on Delivery,Pune,Delivered
+ORD00233,27-05-2025,CUST0138,Bombay Bites,Pizza,304.83,61,3.4,Cash on Delivery,Mumbai,Delivered
+ORD00234,07-07-2025,CUST0012,Kolkata Kathi Rolls,Continental,895.31,50,3.2,Cash on Delivery,Kolkata,Delivered
+ORD00235,16-09-2025,CUST0116,Pearl City Eats,Continental,283.96,40,3.4,Debit Card,Hyderabad,Delivered
+ORD00236,13-10-2025,CUST0241,Marina Meals,Fast Food,951.4,47,2.6,UPI,Chennai,Delivered
+ORD00237,12-03-2025,CUST0183,Filter Kaapi Corner,Street Food,750.64,72,3.8,Debit Card,Chennai,Delivered
+ORD00238,10-11-2025,CUST0082,Garden City Grill,Continental,1140.26,52,3.3,Wallet,Bangalore,Delivered
+ORD00239,30-09-2025,CUST0126,Hyderabadi Hut,North Indian,628.33,,,UPI,Hyderabad,Pending
+ORD00240,02-08-2025,CUST0150,Biryani House,Continental,774.93,,,Wallet,Hyderabad,Pending
+ORD00241,23-10-2025,CUST0059,Pav Bhaji Junction,Biryani,355.31,,,Wallet,Mumbai,Pending
+ORD00242,14-07-2025,CUST0038,Pune Punch,Continental,1428.52,27,2.5,Debit Card,Pune,Delivered
+ORD00243,03-08-2025,CUST0039,Park Street Eats,Pizza,812.51,73,3.7,UPI,Kolkata,Delivered
+ORD00244,28-12-2025,CUST0036,Puneri Kitchen,Beverages,1497.41,48,3.4,Credit Card,Pune,Delivered
+ORD00245,24-08-2025,CUST0234,Idli Express,Beverages,1052.7,61,4.2,Debit Card,Chennai,Delivered
+ORD00246,09-11-2025,CUST0124,Misal House,Desserts,890.16,0,,Debit Card,Pune,Cancelled
+ORD00247,28-05-2025,CUST0181,Deccan Delicacies,Beverages,782.13,74,4.8,Debit Card,Pune,Delivered
+ORD00248,28-05-2025,CUST0032,Mishti Corner,Beverages,1437.36,24,3.2,Debit Card,Kolkata,Delivered
+ORD00249,10-02-2025,CUST0089,Sabarmati Snacks,Biryani,415.3,49,3.2,Wallet,Ahmedabad,Delivered
+ORD00250,23-12-2025,CUST0070,Namma Bengaluru Cafe,Continental,1142.43,0,,Credit Card,Bangalore,Cancelled
+ORD00251,26-01-2025,CUST0172,Misal House,North Indian,258.27,60,3.7,Credit Card,Pune,Delivered
+ORD00252,03-01-2025,CUST0247,Garden City Grill,Biryani,778.88,0,,Debit Card,Bangalore,Cancelled
+ORD00253,14-06-2025,CUST0074,Bombay Bites,Continental,440.46,,,UPI,Mumbai,Pending
+ORD00254,31-03-2025,CUST0107,Namma Bengaluru Cafe,Pizza,1207.39,0,,Debit Card,Bangalore,Cancelled
+ORD00255,20-01-2025,CUST0003,Pearl City Eats,Continental,268.07,33,3.6,Wallet,Hyderabad,Delivered
+ORD00256,26-09-2025,CUST0127,Filter Coffee Co,Biryani,496.52,22,3.3,Cash on Delivery,Bangalore,Delivered
+ORD00257,28-11-2025,CUST0066,Namma Bengaluru Cafe,Beverages,1211.26,58,4.4,Credit Card,Bangalore,Delivered
+ORD00258,09-11-2025,CUST0220,Mishti Corner,Street Food,572.54,57,2.7,Credit Card,Kolkata,Delivered
+ORD00259,02-09-2025,CUST0083,Pune Punch,Desserts,649.33,63,3.2,Debit Card,Pune,Delivered
+ORD00260,04-06-2025,CUST0150,The Curry Leaf,Beverages,1076.02,57,2.8,Debit Card,Mumbai,Delivered
+ORD00261,23-03-2025,CUST0104,Biryani House,Desserts,627.21,0,,Credit Card,Hyderabad,Cancelled
+ORD00262,10-03-2025,CUST0123,Garden City Grill,Continental,635.6,,,Wallet,Bangalore,Pending
+ORD00263,30-08-2025,CUST0194,Misal House,Continental,1324.93,48,3.6,Debit Card,Pune,Delivered
+ORD00264,09-02-2025,CUST0235,Delhi Darbar,Street Food,1365.99,0,,Wallet,Delhi,Cancelled
+ORD00265,02-10-2025,CUST0039,Silicon Spice,Street Food,729.74,,,Credit Card,Bangalore,Pending
+ORD00266,26-10-2025,CUST0126,Paratha Point,Biryani,1236,23,3.8,Cash on Delivery,Delhi,Delivered
+ORD00267,16-10-2025,CUST0015,Sabarmati Snacks,North Indian,666.41,15,4.4,Wallet,Ahmedabad,Delivered
+ORD00268,07-02-2025,CUST0012,Bengal Bhoj,South Indian,866.81,74,4.7,Cash on Delivery,Kolkata,Delivered
+ORD00269,17-01-2025,CUST0074,Park Street Eats,Chinese,1176.84,,,Cash on Delivery,Kolkata,Pending
+ORD00270,11-07-2025,CUST0229,Mishti Corner,Pizza,638.39,,,Wallet,Kolkata,Pending
+ORD00271,10-03-2025,CUST0168,Chennai Chettinad,Chinese,1490.13,48,2.8,Credit Card,Chennai,Delivered
+ORD00272,02-01-2025,CUST0194,The Curry Leaf,Biryani,1049.43,42,3.8,Credit Card,Mumbai,Delivered
+ORD00273,07-05-2025,CUST0118,Marina Meals,Desserts,380.1,,,UPI,Chennai,Pending
+ORD00274,17-01-2025,CUST0208,Howrah Hotpot,North Indian,452.12,21,4,Cash on Delivery,Kolkata,Delivered
+ORD00275,03-11-2025,CUST0173,Spice Route,North Indian,675.13,0,,Wallet,Mumbai,Cancelled
+ORD00276,22-04-2025,CUST0194,Spice Route,Street Food,1491.01,0,,Wallet,Mumbai,Cancelled
+ORD00277,13-06-2025,CUST0148,Marina Meals,Desserts,1329.24,,,Wallet,Chennai,Pending
+ORD00278,24-04-2025,CUST0106,Nizam's Kitchen,North Indian,888.27,71,4.3,Credit Card,Hyderabad,Delivered
+ORD00279,17-11-2025,CUST0174,Howrah Hotpot,Biryani,184.7,75,4.1,Cash on Delivery,Kolkata,Delivered
+ORD00280,26-09-2025,CUST0082,Mishti Corner,Chinese,533.85,0,,Wallet,Kolkata,Cancelled
+ORD00281,31-08-2025,CUST0062,Shaniwar Peth Snacks,Chinese,1231.97,50,3.5,Cash on Delivery,Pune,Delivered
+ORD00282,13-10-2025,CUST0136,Garden City Grill,Fast Food,471.89,56,2.7,Cash on Delivery,Bangalore,Delivered
+ORD00283,09-07-2025,CUST0024,Pune Punch,Desserts,640.49,53,2.6,UPI,Pune,Delivered
+ORD00284,07-04-2025,CUST0206,Deccan Delicacies,Fast Food,1319.87,34,4.9,UPI,Pune,Delivered
+ORD00285,19-04-2025,CUST0240,Pune Punch,Biryani,1381.93,,,Wallet,Pune,Pending
+ORD00286,27-12-2025,CUST0053,Park Street Eats,Street Food,563.83,39,3.7,Debit Card,Kolkata,Delivered
+ORD00287,07-06-2025,CUST0067,Idli Express,Biryani,763.09,61,3.7,Debit Card,Chennai,Delivered
+ORD00288,15-04-2025,CUST0095,Filter Kaapi Corner,North Indian,896.28,0,,Credit Card,Chennai,Cancelled
+ORD00289,09-01-2025,CUST0067,Bengal Bhoj,Chinese,390.74,0,,Cash on Delivery,Kolkata,Cancelled
+ORD00290,19-10-2025,CUST0214,Deccan Delicacies,Street Food,1023.36,,,Debit Card,Pune,Pending
+ORD00291,12-05-2025,CUST0196,Dhokla Den,Biryani,352.16,37,2.9,Wallet,Ahmedabad,Delivered
+ORD00292,08-09-2025,CUST0048,Pav Bhaji Junction,North Indian,1277.91,75,4.5,UPI,Mumbai,Delivered
+ORD00293,04-01-2025,CUST0106,Dosa Delight,South Indian,1095.89,28,3.8,Debit Card,Bangalore,Delivered
+ORD00294,31-01-2025,CUST0159,Dhokla Den,North Indian,129.13,41,2.5,Wallet,Ahmedabad,Delivered
+ORD00295,21-05-2025,CUST0138,Biryani House,Street Food,1242.16,,,Cash on Delivery,Hyderabad,Pending
+ORD00296,02-04-2025,CUST0028,Paratha Point,Chinese,452.54,48,3.1,Debit Card,Delhi,Delivered
+ORD00297,17-05-2025,CUST0204,Kolkata Kathi Rolls,Beverages,1443.83,51,3.1,Credit Card,Kolkata,Delivered
+ORD00298,03-06-2025,CUST0176,Delhi Darbar,South Indian,679.28,50,3.7,UPI,Delhi,Delivered
+ORD00299,26-12-2025,CUST0044,Butter Chicken House,Pizza,1009.97,51,4.9,UPI,Delhi,Delivered
+ORD00300,28-09-2025,CUST0236,Spice Route,Fast Food,1363.76,,,Wallet,Mumbai,Pending
+ORD00301,01-09-2025,CUST0070,Bombay Bites,Desserts,1361.05,57,2.6,Debit Card,Mumbai,Delivered
+ORD00302,09-01-2025,CUST0247,Puneri Kitchen,Chinese,1158.11,,,Cash on Delivery,Pune,Pending
+ORD00303,09-02-2025,CUST0077,Filter Coffee Co,Fast Food,902.04,39,4.2,Wallet,Bangalore,Delivered
+ORD00304,19-06-2025,CUST0099,Namma Bengaluru Cafe,Street Food,1148.73,18,2.7,Credit Card,Bangalore,Delivered
+ORD00305,08-02-2025,CUST0088,Bengal Bhoj,North Indian,995.09,43,3.7,Debit Card,Kolkata,Delivered
+ORD00306,11-10-2025,CUST0241,Mishti Corner,Chinese,1057.98,,,Cash on Delivery,Kolkata,Pending
+ORD00307,13-02-2025,CUST0198,Charminar Chow,South Indian,233.21,0,,Cash on Delivery,Hyderabad,Cancelled
+ORD00308,31-12-2025,CUST0201,Garden City Grill,Beverages,617.77,15,4.9,Cash on Delivery,Bangalore,Delivered
+ORD00309,04-07-2025,CUST0195,Biryani House,Chinese,240.47,43,3.9,Wallet,Hyderabad,Delivered
+ORD00310,28-07-2025,CUST0027,Bombay Bites,Beverages,884.82,53,4.5,Cash on Delivery,Mumbai,Delivered
+ORD00311,07-01-2025,CUST0075,Mishti Corner,South Indian,1120.28,72,5,Credit Card,Kolkata,Delivered
+ORD00312,20-10-2025,CUST0134,Garden City Grill,Chinese,311.6,32,3.7,UPI,Bangalore,Delivered
+ORD00313,27-03-2025,CUST0112,Hyderabadi Hut,Desserts,788.24,38,3.1,Credit Card,Hyderabad,Delivered
+ORD00314,17-11-2025,CUST0127,Deccan Delicacies,South Indian,306.98,75,3.5,Wallet,Pune,Delivered
+ORD00315,14-07-2025,CUST0206,Filter Kaapi Corner,Beverages,714.25,70,4.1,Wallet,Chennai,Delivered
+ORD00316,11-03-2025,CUST0077,Idli Express,Fast Food,781.03,0,,Cash on Delivery,Chennai,Cancelled
+ORD00317,13-06-2025,CUST0075,Kathiyawadi Kitchen,Fast Food,569.72,67,4.5,Debit Card,Ahmedabad,Delivered
+ORD00318,28-02-2025,CUST0239,Puneri Kitchen,Street Food,368.3,50,2.6,Cash on Delivery,Pune,Delivered
+ORD00319,29-12-2025,CUST0054,Sabarmati Snacks,South Indian,1250.17,65,3.5,Cash on Delivery,Ahmedabad,Delivered
+ORD00320,13-03-2025,CUST0163,Charminar Chow,Desserts,1028.95,,,Cash on Delivery,Hyderabad,Pending
+ORD00321,13-07-2025,CUST0019,Kathiyawadi Kitchen,Biryani,923.5,47,4.8,Cash on Delivery,Ahmedabad,Delivered
+ORD00322,06-10-2025,CUST0010,Idli Express,Continental,1000.69,21,4.4,Debit Card,Chennai,Delivered
+ORD00323,27-03-2025,CUST0166,Pav Bhaji Junction,Pizza,1454.2,65,3.6,UPI,Mumbai,Delivered
+ORD00324,20-02-2025,CUST0067,Puneri Kitchen,Street Food,890.03,,,Wallet,Pune,Pending
+ORD00325,24-04-2025,CUST0115,Filter Kaapi Corner,Biryani,1185.83,59,3.8,Debit Card,Chennai,Delivered
+ORD00326,13-01-2025,CUST0124,Chandni Chowk Eats,Pizza,1390.36,22,4.6,Credit Card,Delhi,Delivered
+ORD00327,28-06-2025,CUST0080,Filter Kaapi Corner,Fast Food,839.14,45,2.7,Cash on Delivery,Chennai,Delivered
+ORD00328,13-06-2025,CUST0018,Biryani House,South Indian,151.17,56,2.8,Credit Card,Hyderabad,Delivered
+ORD00329,05-05-2025,CUST0133,Filter Coffee Co,Chinese,576.77,44,3.1,Cash on Delivery,Bangalore,Delivered
+ORD00330,19-11-2025,CUST0048,Garden City Grill,Pizza,160.29,71,3,Wallet,Bangalore,Delivered
+ORD00331,08-08-2025,CUST0100,Spice Route,Fast Food,504.12,,,UPI,Mumbai,Pending
+ORD00332,23-10-2025,CUST0027,Silicon Spice,Beverages,391.96,31,4.2,Cash on Delivery,Bangalore,Delivered
+ORD00333,28-09-2025,CUST0248,Idli Express,Pizza,963.61,22,3.4,Cash on Delivery,Chennai,Delivered
+ORD00334,13-11-2025,CUST0045,Pearl City Eats,Continental,236.96,0,,Debit Card,Hyderabad,Cancelled
+ORD00335,02-03-2025,CUST0062,Biryani House,Chinese,635.16,0,,Wallet,Hyderabad,Cancelled
+ORD00336,18-07-2025,CUST0108,Filter Coffee Co,Pizza,703.79,55,3.8,Credit Card,Bangalore,Delivered
+ORD00337,12-10-2025,CUST0043,Sabarmati Snacks,Chinese,378.2,43,4,Debit Card,Ahmedabad,Delivered
+ORD00338,05-01-2025,CUST0125,Dosa Delight,Pizza,1450.08,56,3.7,Cash on Delivery,Bangalore,Delivered
+ORD00339,01-08-2025,CUST0182,Dhokla Den,Chinese,234.09,65,4.4,Debit Card,Ahmedabad,Delivered
+ORD00340,17-01-2025,CUST0071,Puneri Kitchen,Desserts,352.13,51,4.4,Cash on Delivery,Pune,Delivered
+ORD00341,09-10-2025,CUST0131,Paratha Point,South Indian,489.69,67,5,Wallet,Delhi,Delivered
+ORD00342,22-01-2025,CUST0195,Kathiyawadi Kitchen,Fast Food,1485.89,62,4.6,Credit Card,Ahmedabad,Delivered
+ORD00343,02-06-2025,CUST0224,Sea View Kitchen,Desserts,601.04,20,3.6,UPI,Mumbai,Delivered
+ORD00344,02-05-2025,CUST0054,Idli Express,Pizza,349.05,0,,Credit Card,Chennai,Cancelled
+ORD00345,16-04-2025,CUST0207,Pav Bhaji Junction,Beverages,854.55,49,2.9,Debit Card,Mumbai,Delivered
+ORD00346,29-05-2025,CUST0147,Pearl City Eats,South Indian,307.11,65,3.5,UPI,Hyderabad,Delivered
+ORD00347,22-05-2025,CUST0222,Dosa Delight,Fast Food,321.82,68,3.1,Cash on Delivery,Bangalore,Delivered
+ORD00348,08-09-2025,CUST0037,Hyderabadi Hut,Pizza,743.75,,,UPI,Hyderabad,Pending
+ORD00349,26-07-2025,CUST0132,Nizam's Kitchen,Biryani,1431.35,52,2.5,UPI,Hyderabad,Delivered
+ORD00350,23-08-2025,CUST0163,Chennai Chettinad,Street Food,668.85,67,3,Debit Card,Chennai,Delivered
+ORD00351,15-06-2025,CUST0213,Nizam's Kitchen,Street Food,917.55,69,3.7,Debit Card,Hyderabad,Delivered
+ORD00352,16-12-2025,CUST0196,Bombay Bites,South Indian,984.13,44,2.5,Credit Card,Mumbai,Delivered
+ORD00353,14-08-2025,CUST0117,Sea View Kitchen,Fast Food,1494.06,0,,Debit Card,Mumbai,Cancelled
+ORD00354,23-03-2025,CUST0224,Biryani House,Beverages,465.54,57,4.8,Credit Card,Hyderabad,Delivered
+ORD00355,27-01-2025,CUST0102,Charminar Chow,Pizza,1024.57,,,UPI,Hyderabad,Pending
+ORD00356,01-01-2025,CUST0055,Ahmedabad Chaat,Chinese,939.28,58,3.6,UPI,Ahmedabad,Delivered
+ORD00357,23-12-2025,CUST0088,Butter Chicken House,Chinese,779.23,0,,Cash on Delivery,Delhi,Cancelled
+ORD00358,15-02-2025,CUST0188,Delhi Darbar,Beverages,627.24,23,3.5,Credit Card,Delhi,Delivered
+ORD00359,25-11-2025,CUST0174,Namma Bengaluru Cafe,Street Food,897.34,56,2.9,Debit Card,Bangalore,Delivered
+ORD00360,20-04-2025,CUST0161,Garden City Grill,Continental,1067.46,28,2.7,UPI,Bangalore,Delivered
+ORD00361,13-03-2025,CUST0193,Paratha Point,Pizza,605.12,35,4.5,Credit Card,Delhi,Delivered
+ORD00362,22-05-2025,CUST0166,Karim's Corner,Street Food,949.38,,,Wallet,Delhi,Pending
+ORD00363,26-05-2025,CUST0200,The Curry Leaf,Fast Food,834.49,27,4.4,Debit Card,Mumbai,Delivered
+ORD00364,27-11-2025,CUST0014,Deccan Delicacies,Pizza,275.59,55,4,Wallet,Pune,Delivered
+ORD00365,07-01-2025,CUST0093,Marina Meals,Pizza,1307.92,41,3.4,Credit Card,Chennai,Delivered
+ORD00366,30-08-2025,CUST0245,Delhi Darbar,Continental,213.19,28,2.6,UPI,Delhi,Delivered
+ORD00367,23-07-2025,CUST0130,Pearl City Eats,Pizza,704.53,20,4.1,Wallet,Hyderabad,Delivered
+ORD00368,12-11-2025,CUST0040,Biryani House,Desserts,229.05,0,,Credit Card,Hyderabad,Cancelled
+ORD00369,02-10-2025,CUST0084,Howrah Hotpot,South Indian,548.03,61,4.9,Credit Card,Kolkata,Delivered
+ORD00370,30-01-2025,CUST0063,Butter Chicken House,South Indian,745.65,18,3.3,Credit Card,Delhi,Delivered
+ORD00371,03-03-2025,CUST0004,Namma Bengaluru Cafe,Chinese,805.05,48,3.8,Debit Card,Bangalore,Delivered
+ORD00372,27-03-2025,CUST0096,Silicon Spice,South Indian,1184.57,36,4.5,Debit Card,Bangalore,Delivered
+ORD00373,26-09-2025,CUST0017,Pearl City Eats,South Indian,804.68,38,2.6,Wallet,Hyderabad,Delivered
+ORD00374,27-03-2025,CUST0095,Silicon Spice,South Indian,1354.09,,,UPI,Bangalore,Pending
+ORD00375,27-04-2025,CUST0190,Bombay Bites,North Indian,457.48,38,3.5,Credit Card,Mumbai,Delivered
+ORD00376,02-04-2025,CUST0239,Pav Bhaji Junction,Pizza,429.83,0,,Cash on Delivery,Mumbai,Cancelled
+ORD00377,13-06-2025,CUST0070,Paratha Point,Beverages,284.77,,,UPI,Delhi,Pending
+ORD00378,02-04-2025,CUST0058,Sea View Kitchen,South Indian,1330.25,33,4.4,Debit Card,Mumbai,Delivered
+ORD00379,17-06-2025,CUST0023,Ahmedabad Chaat,Beverages,396.93,65,3.3,Wallet,Ahmedabad,Delivered
+ORD00380,05-05-2025,CUST0119,Idli Express,Biryani,1496.95,27,4.3,Wallet,Chennai,Delivered
+ORD00381,06-05-2025,CUST0039,Sea View Kitchen,North Indian,441.54,55,4.6,UPI,Mumbai,Delivered
+ORD00382,21-06-2025,CUST0001,Bengal Bhoj,South Indian,403.17,0,,Cash on Delivery,Kolkata,Cancelled
+ORD00383,09-09-2025,CUST0247,Spice Route,Desserts,248.38,0,,Wallet,Mumbai,Cancelled
+ORD00384,31-07-2025,CUST0180,Filter Kaapi Corner,South Indian,921.46,23,4.1,Cash on Delivery,Chennai,Delivered
+ORD00385,08-02-2025,CUST0152,Sea View Kitchen,Chinese,446.74,69,3.3,Cash on Delivery,Mumbai,Delivered
+ORD00386,25-12-2025,CUST0213,South Curry Co,Biryani,495.3,75,3,Wallet,Chennai,Delivered
+ORD00387,25-02-2025,CUST0040,Karim's Corner,Biryani,763.16,22,3.8,Credit Card,Delhi,Delivered
+ORD00388,20-08-2025,CUST0079,Sabarmati Snacks,South Indian,244.78,58,3.3,Wallet,Ahmedabad,Delivered
+ORD00389,21-01-2025,CUST0056,Marina Meals,South Indian,1101.4,40,3.8,Debit Card,Chennai,Delivered
+ORD00390,14-05-2025,CUST0210,Namma Bengaluru Cafe,Pizza,1299.35,62,3.9,UPI,Bangalore,Delivered
+ORD00391,25-08-2025,CUST0027,Namma Bengaluru Cafe,North Indian,205.1,29,2.8,Cash on Delivery,Bangalore,Delivered
+ORD00392,10-07-2025,CUST0176,Paratha Point,Continental,477.17,19,2.6,UPI,Delhi,Delivered
+ORD00393,12-04-2025,CUST0232,Gujarati Thali House,South Indian,1369.01,66,3.3,UPI,Ahmedabad,Delivered
+ORD00394,25-08-2025,CUST0013,Filter Coffee Co,Pizza,1253.93,46,2.6,Cash on Delivery,Bangalore,Delivered
+ORD00395,30-03-2025,CUST0091,Misal House,Desserts,506.2,0,,UPI,Pune,Cancelled
+ORD00396,11-11-2025,CUST0159,Shaniwar Peth Snacks,Biryani,688.55,45,2.7,Debit Card,Pune,Delivered
+ORD00397,16-07-2025,CUST0036,Park Street Eats,Street Food,463.82,49,4.5,Cash on Delivery,Kolkata,Delivered
+ORD00398,03-07-2025,CUST0123,Sabarmati Snacks,Continental,813.3,32,2.9,Debit Card,Ahmedabad,Delivered
+ORD00399,02-11-2025,CUST0057,The Curry Leaf,North Indian,1235.94,48,3.4,Wallet,Mumbai,Delivered
+ORD00400,30-04-2025,CUST0250,Namma Bengaluru Cafe,Fast Food,1026.47,49,4.5,UPI,Bangalore,Delivered
+ORD00401,23-04-2025,CUST0148,Bengal Bhoj,Chinese,363.02,35,4.5,Debit Card,Kolkata,Delivered
+ORD00402,30-10-2025,CUST0008,Idli Express,Continental,316.1,0,,Cash on Delivery,Chennai,Cancelled
+ORD00403,05-10-2025,CUST0080,Garden City Grill,North Indian,244.56,0,,Wallet,Bangalore,Cancelled
+ORD00404,23-04-2025,CUST0006,Ahmedabad Chaat,Beverages,1386.7,0,,Credit Card,Ahmedabad,Cancelled
+ORD00405,24-06-2025,CUST0184,Silicon Spice,North Indian,150.24,60,4.8,UPI,Bangalore,Delivered
+ORD00406,27-09-2025,CUST0221,Chennai Chettinad,Beverages,1092.26,,,Cash on Delivery,Chennai,Pending
+ORD00407,28-10-2025,CUST0026,South Curry Co,Beverages,308.3,0,,Cash on Delivery,Chennai,Cancelled
+ORD00408,24-11-2025,CUST0246,Sabarmati Snacks,Chinese,1095.91,59,4.7,Wallet,Ahmedabad,Delivered
+ORD00409,02-07-2025,CUST0058,Garden City Grill,Desserts,1132.91,23,2.9,UPI,Bangalore,Delivered
+ORD00410,26-12-2025,CUST0243,Howrah Hotpot,North Indian,371.27,73,4.5,Wallet,Kolkata,Delivered
+ORD00411,24-04-2025,CUST0164,Butter Chicken House,Chinese,577.01,30,3.4,Debit Card,Delhi,Delivered
+ORD00412,27-03-2025,CUST0163,Chandni Chowk Eats,Biryani,135.73,0,,Credit Card,Delhi,Cancelled
+ORD00413,21-12-2025,CUST0018,South Curry Co,South Indian,1114.17,39,3.6,Cash on Delivery,Chennai,Delivered
+ORD00414,27-03-2025,CUST0227,Mishti Corner,Pizza,604.7,21,4.6,Wallet,Kolkata,Delivered
+ORD00415,30-11-2025,CUST0195,Misal House,Biryani,221.72,17,3.2,Debit Card,Pune,Delivered
+ORD00416,14-05-2025,CUST0244,Delhi Darbar,Beverages,354.75,25,4.3,Wallet,Delhi,Delivered
+ORD00417,17-02-2025,CUST0087,Ahmedabad Chaat,Pizza,1420.57,0,,Wallet,Ahmedabad,Cancelled
+ORD00418,11-08-2025,CUST0041,Bombay Bites,Beverages,403.66,0,,Cash on Delivery,Mumbai,Cancelled
+ORD00419,23-12-2025,CUST0142,Nizam's Kitchen,Desserts,447.82,40,3.9,Cash on Delivery,Hyderabad,Delivered
+ORD00420,20-03-2025,CUST0014,Chennai Chettinad,Pizza,240.93,57,4.1,Cash on Delivery,Chennai,Delivered
+ORD00421,13-04-2025,CUST0025,Spice Route,Chinese,1000.7,45,4.6,Debit Card,Mumbai,Delivered
+ORD00422,23-07-2025,CUST0121,Sabarmati Snacks,South Indian,1005.78,26,3.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00423,09-07-2025,CUST0048,Ahmedabad Chaat,Desserts,726.84,29,4.6,Wallet,Ahmedabad,Delivered
+ORD00424,01-02-2025,CUST0039,Delhi Darbar,Beverages,1235.29,63,4,Wallet,Delhi,Delivered
+ORD00425,01-02-2025,CUST0216,Howrah Hotpot,Pizza,1452.57,,,Cash on Delivery,Kolkata,Pending
+ORD00426,21-10-2025,CUST0226,Deccan Delicacies,Desserts,228.96,60,2.6,Wallet,Pune,Delivered
+ORD00427,22-09-2025,CUST0205,Namma Bengaluru Cafe,Biryani,358.57,0,,Credit Card,Bangalore,Cancelled
+ORD00428,09-04-2025,CUST0033,Sea View Kitchen,South Indian,1483.83,27,5,Credit Card,Mumbai,Delivered
+ORD00429,01-11-2025,CUST0067,Chennai Chettinad,South Indian,655.58,50,3.3,Debit Card,Chennai,Delivered
+ORD00430,24-09-2025,CUST0118,Pav Bhaji Junction,Continental,841.14,22,3.5,Credit Card,Mumbai,Delivered
+ORD00431,18-10-2025,CUST0151,Delhi Darbar,Continental,1195.77,33,4.7,Debit Card,Delhi,Delivered
+ORD00432,30-07-2025,CUST0068,Mishti Corner,Continental,960.37,26,3.2,Credit Card,Kolkata,Delivered
+ORD00433,13-11-2025,CUST0156,Kolkata Kathi Rolls,Pizza,1347.61,59,3.1,Cash on Delivery,Kolkata,Delivered
+ORD00434,18-05-2025,CUST0230,Chennai Chettinad,Beverages,1247.99,34,3.2,Cash on Delivery,Chennai,Delivered
+ORD00435,23-12-2025,CUST0176,Karim's Corner,Chinese,534.66,,,Cash on Delivery,Delhi,Pending
+ORD00436,14-06-2025,CUST0069,Howrah Hotpot,South Indian,379.35,0,,Cash on Delivery,Kolkata,Cancelled
+ORD00437,06-09-2025,CUST0195,Chennai Chettinad,Street Food,1212.26,34,4.3,Cash on Delivery,Chennai,Delivered
+ORD00438,11-03-2025,CUST0200,Spice Route,Fast Food,1327.75,0,,UPI,Mumbai,Cancelled
+ORD00439,08-05-2025,CUST0009,Ahmedabad Chaat,Beverages,1092.39,38,4.6,Wallet,Ahmedabad,Delivered
+ORD00440,23-07-2025,CUST0163,Delhi Darbar,Fast Food,634,43,2.9,Cash on Delivery,Delhi,Delivered
+ORD00441,28-10-2025,CUST0142,South Curry Co,Chinese,1275.96,62,4.6,UPI,Chennai,Delivered
+ORD00442,26-05-2025,CUST0008,Kolkata Kathi Rolls,Chinese,1298.27,28,4.6,Credit Card,Kolkata,Delivered
+ORD00443,13-12-2025,CUST0053,Hyderabadi Hut,Street Food,147.67,64,4.2,Cash on Delivery,Hyderabad,Delivered
+ORD00444,09-03-2025,CUST0166,Filter Coffee Co,North Indian,428.8,66,4.9,Debit Card,Bangalore,Delivered
+ORD00445,05-08-2025,CUST0230,Bengal Bhoj,Biryani,467.76,34,4.2,Wallet,Kolkata,Delivered
+ORD00446,23-07-2025,CUST0150,Delhi Darbar,Street Food,1499.21,68,3.4,Wallet,Delhi,Delivered
+ORD00447,08-11-2025,CUST0073,Biryani House,Biryani,208.1,55,3.3,Debit Card,Hyderabad,Delivered
+ORD00448,14-05-2025,CUST0168,Charminar Chow,Chinese,833.87,0,,UPI,Hyderabad,Cancelled
+ORD00449,04-11-2025,CUST0104,Marina Meals,North Indian,1024.45,31,4.8,Cash on Delivery,Chennai,Delivered
+ORD00450,18-07-2025,CUST0189,Pav Bhaji Junction,Continental,1246.1,61,4.3,Wallet,Mumbai,Delivered
+ORD00451,23-11-2025,CUST0201,Sabarmati Snacks,Street Food,534.27,0,,Wallet,Ahmedabad,Cancelled
+ORD00452,03-04-2025,CUST0076,Butter Chicken House,Chinese,1142.47,,,Wallet,Delhi,Pending
+ORD00453,04-04-2025,CUST0243,Chennai Chettinad,Fast Food,610.29,,,Debit Card,Chennai,Pending
+ORD00454,04-08-2025,CUST0202,South Curry Co,Desserts,928.09,69,2.8,UPI,Chennai,Delivered
+ORD00455,21-11-2025,CUST0150,Butter Chicken House,Fast Food,810.66,58,3.5,Debit Card,Delhi,Delivered
+ORD00456,31-07-2025,CUST0014,Dosa Delight,Fast Food,592.88,72,4.8,Cash on Delivery,Bangalore,Delivered
+ORD00457,15-03-2025,CUST0081,Namma Bengaluru Cafe,Biryani,579.03,0,,Debit Card,Bangalore,Cancelled
+ORD00458,21-11-2025,CUST0015,Sea View Kitchen,Desserts,408.95,25,3.9,Credit Card,Mumbai,Delivered
+ORD00459,08-09-2025,CUST0202,Karim's Corner,Continental,718.52,40,3.6,Cash on Delivery,Delhi,Delivered
+ORD00460,16-07-2025,CUST0002,Pav Bhaji Junction,Fast Food,1128.31,72,3.3,Wallet,Mumbai,Delivered
+ORD00461,08-04-2025,CUST0005,Spice Route,Fast Food,1077.06,34,2.8,Cash on Delivery,Mumbai,Delivered
+ORD00462,15-09-2025,CUST0151,Charminar Chow,South Indian,1256.9,75,3.2,Wallet,Hyderabad,Delivered
+ORD00463,02-11-2025,CUST0135,Filter Kaapi Corner,Chinese,592.97,37,4.4,Credit Card,Chennai,Delivered
+ORD00464,26-07-2025,CUST0005,Misal House,Chinese,411.44,52,3.8,UPI,Pune,Delivered
+ORD00465,07-07-2025,CUST0183,Sea View Kitchen,Desserts,1184.32,18,4,UPI,Mumbai,Delivered
+ORD00466,05-12-2025,CUST0028,Bombay Bites,South Indian,695.15,22,3.9,Cash on Delivery,Mumbai,Delivered
+ORD00467,26-12-2025,CUST0040,Pune Punch,Desserts,700.8,57,3.8,Wallet,Pune,Delivered
+ORD00468,07-11-2025,CUST0180,Garden City Grill,South Indian,825.99,22,3.2,UPI,Bangalore,Delivered
+ORD00469,12-09-2025,CUST0051,Shaniwar Peth Snacks,Street Food,1462.91,60,3.5,Credit Card,Pune,Delivered
+ORD00470,21-01-2025,CUST0141,Gujarati Thali House,Biryani,576.23,15,4.2,UPI,Ahmedabad,Delivered
+ORD00471,21-10-2025,CUST0172,Gujarati Thali House,South Indian,1195.75,61,4.3,Debit Card,Ahmedabad,Delivered
+ORD00472,26-11-2025,CUST0060,Sabarmati Snacks,Desserts,760.7,67,2.9,UPI,Ahmedabad,Delivered
+ORD00473,29-05-2025,CUST0093,Filter Kaapi Corner,South Indian,251.1,71,2.6,Credit Card,Chennai,Delivered
+ORD00474,06-12-2025,CUST0166,Silicon Spice,Beverages,1354.45,32,4.7,UPI,Bangalore,Delivered
+ORD00475,10-07-2025,CUST0209,Marina Meals,South Indian,673.07,32,4.6,Cash on Delivery,Chennai,Delivered
+ORD00476,04-08-2025,CUST0167,Namma Bengaluru Cafe,Chinese,1080.71,75,4.6,UPI,Bangalore,Delivered
+ORD00477,02-08-2025,CUST0234,Kathiyawadi Kitchen,Biryani,370.14,64,3.4,UPI,Ahmedabad,Delivered
+ORD00478,17-12-2025,CUST0226,Garden City Grill,Biryani,275.85,43,2.6,Debit Card,Bangalore,Delivered
+ORD00479,02-12-2025,CUST0081,Pav Bhaji Junction,Continental,1118.81,0,,Debit Card,Mumbai,Cancelled
+ORD00480,23-09-2025,CUST0134,Butter Chicken House,Fast Food,785.06,,,Cash on Delivery,Delhi,Pending
+ORD00481,18-03-2025,CUST0215,Bombay Bites,Chinese,817.68,69,3.7,Credit Card,Mumbai,Delivered
+ORD00482,08-02-2025,CUST0193,Sabarmati Snacks,Fast Food,576.63,18,3.8,Wallet,Ahmedabad,Delivered
+ORD00483,26-11-2025,CUST0097,Park Street Eats,South Indian,753.55,51,3.6,Cash on Delivery,Kolkata,Delivered
+ORD00484,17-08-2025,CUST0081,Butter Chicken House,North Indian,261.65,17,3.9,UPI,Delhi,Delivered
+ORD00485,16-02-2025,CUST0203,Pearl City Eats,Street Food,405.45,,,Cash on Delivery,Hyderabad,Pending
+ORD00486,24-06-2025,CUST0094,Spice Route,Biryani,578.12,54,4,Debit Card,Mumbai,Delivered
+ORD00487,20-08-2025,CUST0030,Karim's Corner,North Indian,591.07,55,4.9,Debit Card,Delhi,Delivered
+ORD00488,08-10-2025,CUST0134,Chennai Chettinad,North Indian,1357.69,23,4.6,Cash on Delivery,Chennai,Delivered
+ORD00489,24-02-2025,CUST0066,Misal House,South Indian,1403.7,28,3.6,Credit Card,Pune,Delivered
+ORD00490,23-06-2025,CUST0028,Kolkata Kathi Rolls,Continental,290.04,44,4.1,Wallet,Kolkata,Delivered
+ORD00491,10-03-2025,CUST0247,Ahmedabad Chaat,Street Food,1135.98,74,3.6,Wallet,Ahmedabad,Delivered
+ORD00492,05-09-2025,CUST0237,Filter Coffee Co,Chinese,1128.08,0,,UPI,Bangalore,Cancelled
+ORD00493,18-07-2025,CUST0169,Idli Express,Pizza,697.76,73,4.2,Credit Card,Chennai,Delivered
+ORD00494,21-05-2025,CUST0102,South Curry Co,Biryani,1230.62,0,,Cash on Delivery,Chennai,Cancelled
+ORD00495,05-11-2025,CUST0180,Pearl City Eats,Beverages,1102.39,55,3,Credit Card,Hyderabad,Delivered
+ORD00496,16-11-2025,CUST0183,Nizam's Kitchen,Chinese,1474.24,,,Credit Card,Hyderabad,Pending
+ORD00497,15-09-2025,CUST0139,Chennai Chettinad,Beverages,895.95,51,4.9,Cash on Delivery,Chennai,Delivered
+ORD00498,12-12-2025,CUST0192,Hyderabadi Hut,North Indian,841.37,39,2.9,UPI,Hyderabad,Delivered
+ORD00499,13-04-2025,CUST0069,Silicon Spice,Desserts,322.07,59,4.5,Credit Card,Bangalore,Delivered
+ORD00500,05-10-2025,CUST0009,Filter Kaapi Corner,South Indian,970.23,,,Wallet,Chennai,Pending
+ORD00501,25-04-2025,CUST0191,Park Street Eats,Street Food,1202.34,59,3.2,UPI,Kolkata,Delivered
+ORD00502,15-07-2025,CUST0100,Bengal Bhoj,Street Food,194.25,,,Debit Card,Kolkata,Pending
+ORD00503,14-04-2025,CUST0159,Gujarati Thali House,Beverages,1162.05,62,4,Credit Card,Ahmedabad,Delivered
+ORD00504,31-05-2025,CUST0115,Namma Bengaluru Cafe,Chinese,1448.22,,,Wallet,Bangalore,Pending
+ORD00505,03-03-2025,CUST0097,Sea View Kitchen,Desserts,888.11,0,,Credit Card,Mumbai,Cancelled
+ORD00506,27-10-2025,CUST0217,Biryani House,Beverages,763.54,0,,UPI,Hyderabad,Cancelled
+ORD00507,20-03-2025,CUST0238,Idli Express,North Indian,1187.65,,,Wallet,Chennai,Pending
+ORD00508,05-12-2025,CUST0078,Kathiyawadi Kitchen,Street Food,614.16,60,3.3,Credit Card,Ahmedabad,Delivered
+ORD00509,05-04-2025,CUST0134,Paratha Point,Chinese,693.99,40,2.7,Credit Card,Delhi,Delivered
+ORD00510,20-04-2025,CUST0170,South Curry Co,Beverages,525.13,54,3.8,Wallet,Chennai,Delivered
+ORD00511,29-11-2025,CUST0003,Chandni Chowk Eats,Biryani,451.68,,,Wallet,Delhi,Pending
+ORD00512,15-11-2025,CUST0063,The Curry Leaf,Pizza,1383.99,39,3.1,Debit Card,Mumbai,Delivered
+ORD00513,13-01-2025,CUST0234,Idli Express,Street Food,734.87,33,4.7,Credit Card,Chennai,Delivered
+ORD00514,14-06-2025,CUST0132,Delhi Darbar,Chinese,1460.85,49,3.8,UPI,Delhi,Delivered
+ORD00515,18-04-2025,CUST0172,Deccan Delicacies,South Indian,403.7,59,4.7,Cash on Delivery,Pune,Delivered
+ORD00516,28-11-2025,CUST0210,Karim's Corner,North Indian,753.73,17,2.7,UPI,Delhi,Delivered
+ORD00517,02-04-2025,CUST0204,Pearl City Eats,South Indian,913.45,0,,Debit Card,Hyderabad,Cancelled
+ORD00518,28-07-2025,CUST0100,Dhokla Den,Pizza,556.64,58,2.8,UPI,Ahmedabad,Delivered
+ORD00519,25-11-2025,CUST0185,Paratha Point,North Indian,1087.22,37,4.8,UPI,Delhi,Delivered
+ORD00520,29-05-2025,CUST0202,Pearl City Eats,South Indian,508.49,39,3.5,UPI,Hyderabad,Delivered
+ORD00521,31-08-2025,CUST0041,Misal House,Pizza,1219.54,49,3.2,Credit Card,Pune,Delivered
+ORD00522,02-06-2025,CUST0174,Chennai Chettinad,Street Food,1327.18,0,,UPI,Chennai,Cancelled
+ORD00523,22-01-2025,CUST0002,Howrah Hotpot,Street Food,1426.83,28,4.4,Debit Card,Kolkata,Delivered
+ORD00524,19-04-2025,CUST0106,Dosa Delight,Chinese,424.69,31,3,Credit Card,Bangalore,Delivered
+ORD00525,10-12-2025,CUST0205,Pav Bhaji Junction,Biryani,1009.65,33,4.2,Debit Card,Mumbai,Delivered
+ORD00526,20-02-2025,CUST0051,Sabarmati Snacks,Beverages,296.94,,,Credit Card,Ahmedabad,Pending
+ORD00527,21-02-2025,CUST0073,Karim's Corner,Beverages,790.49,54,4.1,Wallet,Delhi,Delivered
+ORD00528,20-03-2025,CUST0145,South Curry Co,Pizza,352.72,30,4.5,Cash on Delivery,Chennai,Delivered
+ORD00529,22-05-2025,CUST0216,Marina Meals,Beverages,1331.48,43,3.4,Debit Card,Chennai,Delivered
+ORD00530,07-09-2025,CUST0142,Karim's Corner,Continental,233.12,69,4.6,Wallet,Delhi,Delivered
+ORD00531,11-04-2025,CUST0068,Delhi Darbar,North Indian,1292.43,,,UPI,Delhi,Pending
+ORD00532,25-10-2025,CUST0149,Howrah Hotpot,Fast Food,1370.7,31,3.9,Wallet,Kolkata,Delivered
+ORD00533,30-08-2025,CUST0168,Silicon Spice,Pizza,428.16,52,4.3,Debit Card,Bangalore,Delivered
+ORD00534,10-03-2025,CUST0119,Butter Chicken House,Beverages,812.99,,,Credit Card,Delhi,Pending
+ORD00535,11-11-2025,CUST0176,Filter Coffee Co,Chinese,735.78,0,,Wallet,Bangalore,Cancelled
+ORD00536,17-10-2025,CUST0169,Garden City Grill,Beverages,175.78,46,3.1,Debit Card,Bangalore,Delivered
+ORD00537,09-07-2025,CUST0060,Spice Route,Street Food,1372.66,39,3.7,Cash on Delivery,Mumbai,Delivered
+ORD00538,24-01-2025,CUST0011,Chennai Chettinad,Street Food,994.32,68,4.4,Wallet,Chennai,Delivered
+ORD00539,06-10-2025,CUST0146,Garden City Grill,Pizza,624.11,,,UPI,Bangalore,Pending
+ORD00540,22-09-2025,CUST0065,Park Street Eats,Street Food,680.06,70,3.4,Cash on Delivery,Kolkata,Delivered
+ORD00541,06-11-2025,CUST0002,Garden City Grill,Chinese,437.39,56,3.2,Credit Card,Bangalore,Delivered
+ORD00542,06-04-2025,CUST0041,Idli Express,South Indian,1032.33,66,3.3,UPI,Chennai,Delivered
+ORD00543,04-09-2025,CUST0173,Dhokla Den,Fast Food,935.29,,,Cash on Delivery,Ahmedabad,Pending
+ORD00544,12-01-2025,CUST0063,Spice Route,Continental,937.44,0,,Wallet,Mumbai,Cancelled
+ORD00545,21-01-2025,CUST0229,Namma Bengaluru Cafe,Chinese,476.4,0,,Wallet,Bangalore,Cancelled
+ORD00546,27-07-2025,CUST0154,The Curry Leaf,South Indian,418.9,45,4.7,Credit Card,Mumbai,Delivered
+ORD00547,23-04-2025,CUST0213,Howrah Hotpot,Chinese,1216.57,64,3,Wallet,Kolkata,Delivered
+ORD00548,16-05-2025,CUST0043,Filter Kaapi Corner,Continental,935.02,0,,Cash on Delivery,Chennai,Cancelled
+ORD00549,17-07-2025,CUST0034,Delhi Darbar,Fast Food,841.34,58,3.5,Credit Card,Delhi,Delivered
+ORD00550,07-11-2025,CUST0025,Garden City Grill,Continental,947.74,49,3.8,UPI,Bangalore,Delivered
+ORD00551,17-02-2025,CUST0124,Filter Coffee Co,Street Food,1261.98,58,4.1,Wallet,Bangalore,Delivered
+ORD00552,04-08-2025,CUST0095,Pav Bhaji Junction,Pizza,436.69,45,4.5,Cash on Delivery,Mumbai,Delivered
+ORD00553,29-06-2025,CUST0151,Butter Chicken House,Chinese,471.23,29,4.8,UPI,Delhi,Delivered
+ORD00554,26-05-2025,CUST0154,Bengal Bhoj,Fast Food,127.55,,,UPI,Kolkata,Pending
+ORD00555,23-10-2025,CUST0134,Paratha Point,North Indian,637.54,0,,Debit Card,Delhi,Cancelled
+ORD00556,29-07-2025,CUST0093,Karim's Corner,Pizza,1019.17,31,4.6,Cash on Delivery,Delhi,Delivered
+ORD00557,17-10-2025,CUST0094,Hyderabadi Hut,Fast Food,690.25,50,3.7,Debit Card,Hyderabad,Delivered
+ORD00558,14-10-2025,CUST0143,Sabarmati Snacks,Desserts,917.16,60,3.5,Credit Card,Ahmedabad,Delivered
+ORD00559,04-12-2025,CUST0031,Deccan Delicacies,Chinese,258.38,40,4.5,Wallet,Pune,Delivered
+ORD00560,11-11-2025,CUST0179,Spice Route,Pizza,1451.11,66,2.7,Credit Card,Mumbai,Delivered
+ORD00561,30-08-2025,CUST0238,Kolkata Kathi Rolls,South Indian,483.07,20,4,Cash on Delivery,Kolkata,Delivered
+ORD00562,25-07-2025,CUST0158,Pearl City Eats,North Indian,1425.09,26,4.1,Cash on Delivery,Hyderabad,Delivered
+ORD00563,06-01-2025,CUST0052,Charminar Chow,North Indian,1201.86,48,4.2,Wallet,Hyderabad,Delivered
+ORD00564,28-03-2025,CUST0173,The Curry Leaf,Fast Food,1023.93,0,,UPI,Mumbai,Cancelled
+ORD00565,22-05-2025,CUST0200,Bengal Bhoj,Pizza,679.52,0,,Wallet,Kolkata,Cancelled
+ORD00566,08-01-2025,CUST0189,Delhi Darbar,Street Food,512.6,50,4.8,Debit Card,Delhi,Delivered
+ORD00567,27-06-2025,CUST0247,Charminar Chow,Continental,1449.02,74,3.5,UPI,Hyderabad,Delivered
+ORD00568,14-05-2025,CUST0045,Howrah Hotpot,South Indian,890.91,33,3.3,UPI,Kolkata,Delivered
+ORD00569,20-09-2025,CUST0245,Pearl City Eats,Continental,465.2,39,3.9,Credit Card,Hyderabad,Delivered
+ORD00570,23-06-2025,CUST0247,Dhokla Den,Continental,1309.59,22,3.1,Cash on Delivery,Ahmedabad,Delivered
+ORD00571,21-11-2025,CUST0202,Misal House,Beverages,689.15,48,3.8,Debit Card,Pune,Delivered
+ORD00572,08-05-2025,CUST0074,Butter Chicken House,Beverages,224.92,0,,Cash on Delivery,Delhi,Cancelled
+ORD00573,10-06-2025,CUST0091,Puneri Kitchen,Desserts,372.24,,,Credit Card,Pune,Pending
+ORD00574,13-09-2025,CUST0189,Misal House,Fast Food,1324.38,0,,Credit Card,Pune,Cancelled
+ORD00575,14-04-2025,CUST0214,Puneri Kitchen,Beverages,335.27,22,4.8,Cash on Delivery,Pune,Delivered
+ORD00576,11-11-2025,CUST0002,Sea View Kitchen,Beverages,976.52,72,5,Wallet,Mumbai,Delivered
+ORD00577,21-05-2025,CUST0126,Filter Coffee Co,Desserts,669.07,51,2.8,Wallet,Bangalore,Delivered
+ORD00578,05-08-2025,CUST0123,Pav Bhaji Junction,Beverages,663.33,,,Credit Card,Mumbai,Pending
+ORD00579,23-08-2025,CUST0250,Paratha Point,Biryani,555.6,15,4.2,Cash on Delivery,Delhi,Delivered
+ORD00580,25-10-2025,CUST0026,South Curry Co,Continental,1309.34,0,,Wallet,Chennai,Cancelled
+ORD00581,15-05-2025,CUST0061,Hyderabadi Hut,Continental,593.47,0,,Cash on Delivery,Hyderabad,Cancelled
+ORD00582,06-08-2025,CUST0054,Bengal Bhoj,Beverages,1298.97,43,2.9,Credit Card,Kolkata,Delivered
+ORD00583,22-10-2025,CUST0176,Pune Punch,Desserts,1229.64,42,4.6,Credit Card,Pune,Delivered
+ORD00584,16-03-2025,CUST0205,Garden City Grill,North Indian,363.72,23,5,Wallet,Bangalore,Delivered
+ORD00585,01-10-2025,CUST0185,Filter Kaapi Corner,Desserts,466.34,51,2.6,UPI,Chennai,Delivered
+ORD00586,20-12-2025,CUST0042,Spice Route,Desserts,777.62,,,UPI,Mumbai,Pending
+ORD00587,19-08-2025,CUST0191,South Curry Co,Beverages,617.22,74,4.5,Debit Card,Chennai,Delivered
+ORD00588,11-01-2025,CUST0106,Chandni Chowk Eats,Continental,394.56,56,4.1,Credit Card,Delhi,Delivered
+ORD00589,26-05-2025,CUST0091,Idli Express,Biryani,1189.15,71,2.7,Wallet,Chennai,Delivered
+ORD00590,27-05-2025,CUST0119,Dosa Delight,Beverages,702.11,51,3.5,UPI,Bangalore,Delivered
+ORD00591,10-02-2025,CUST0042,Marina Meals,Beverages,557.29,60,3.2,Cash on Delivery,Chennai,Delivered
+ORD00592,19-05-2025,CUST0228,Sabarmati Snacks,Continental,838.89,41,2.9,UPI,Ahmedabad,Delivered
+ORD00593,06-03-2025,CUST0187,Shaniwar Peth Snacks,South Indian,410.59,21,2.7,Cash on Delivery,Pune,Delivered
+ORD00594,08-10-2025,CUST0014,Sea View Kitchen,Street Food,1175.69,21,3.2,Credit Card,Mumbai,Delivered
+ORD00595,13-02-2025,CUST0168,Bengal Bhoj,Fast Food,461.41,43,4.1,Credit Card,Kolkata,Delivered
+ORD00596,27-09-2025,CUST0215,Namma Bengaluru Cafe,North Indian,1035.7,73,3.3,Cash on Delivery,Bangalore,Delivered
+ORD00597,28-08-2025,CUST0250,Pearl City Eats,Biryani,306.46,,,Wallet,Hyderabad,Pending
+ORD00598,01-04-2025,CUST0152,Kathiyawadi Kitchen,Pizza,842.37,,,Wallet,Ahmedabad,Pending
+ORD00599,08-06-2025,CUST0233,Filter Kaapi Corner,Street Food,433.44,43,3.3,Cash on Delivery,Chennai,Delivered
+ORD00600,14-05-2025,CUST0040,Biryani House,North Indian,842.18,69,2.8,Debit Card,Hyderabad,Delivered
+ORD00601,29-08-2025,CUST0137,Sea View Kitchen,Biryani,533.46,42,4.5,Wallet,Mumbai,Delivered
+ORD00602,29-04-2025,CUST0204,Pav Bhaji Junction,Beverages,380.23,42,3.5,Credit Card,Mumbai,Delivered
+ORD00603,27-11-2025,CUST0100,Park Street Eats,Desserts,229.31,,,Credit Card,Kolkata,Pending
+ORD00604,22-09-2025,CUST0196,Nizam's Kitchen,Street Food,1236.16,27,4.6,Credit Card,Hyderabad,Delivered
+ORD00605,11-03-2025,CUST0075,Butter Chicken House,Continental,744.82,,,Wallet,Delhi,Pending
+ORD00606,09-09-2025,CUST0049,Chennai Chettinad,Chinese,188.49,16,3,UPI,Chennai,Delivered
+ORD00607,25-05-2025,CUST0069,Garden City Grill,North Indian,441.28,0,,UPI,Bangalore,Cancelled
+ORD00608,10-09-2025,CUST0056,Filter Kaapi Corner,Desserts,1204.3,38,3.7,UPI,Chennai,Delivered
+ORD00609,19-06-2025,CUST0021,Namma Bengaluru Cafe,Desserts,1190.4,49,3.7,Credit Card,Bangalore,Delivered
+ORD00610,09-05-2025,CUST0210,Kolkata Kathi Rolls,South Indian,1464.95,,,Credit Card,Kolkata,Pending
+ORD00611,17-07-2025,CUST0198,Gujarati Thali House,North Indian,394.87,,,UPI,Ahmedabad,Pending
+ORD00612,24-09-2025,CUST0171,Deccan Delicacies,Pizza,1060.39,74,3.3,UPI,Pune,Delivered
+ORD00613,09-10-2025,CUST0134,Chandni Chowk Eats,Biryani,1001.16,0,,Debit Card,Delhi,Cancelled
+ORD00614,27-01-2025,CUST0222,Pune Punch,Fast Food,993.41,15,2.9,Debit Card,Pune,Delivered
+ORD00615,27-10-2025,CUST0031,Park Street Eats,North Indian,1456.99,65,4.2,Wallet,Kolkata,Delivered
+ORD00616,21-03-2025,CUST0096,Karim's Corner,Chinese,809.89,,,Wallet,Delhi,Pending
+ORD00617,23-06-2025,CUST0239,Bombay Bites,Beverages,1009.51,,,Wallet,Mumbai,Pending
+ORD00618,24-02-2025,CUST0033,Gujarati Thali House,Beverages,1474.71,56,4.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00619,09-04-2025,CUST0006,Bengal Bhoj,Chinese,465.96,46,4.3,Wallet,Kolkata,Delivered
+ORD00620,31-05-2025,CUST0139,Gujarati Thali House,Continental,377.54,35,4.3,Debit Card,Ahmedabad,Delivered
+ORD00621,03-11-2025,CUST0235,Namma Bengaluru Cafe,Street Food,333.94,67,3.2,Debit Card,Bangalore,Delivered
+ORD00622,21-08-2025,CUST0001,Park Street Eats,North Indian,975.23,64,4.1,Debit Card,Kolkata,Delivered
+ORD00623,02-02-2025,CUST0169,Park Street Eats,Street Food,1062.85,50,2.9,Debit Card,Kolkata,Delivered
+ORD00624,15-06-2025,CUST0105,Chennai Chettinad,South Indian,842.02,17,4.6,Credit Card,Chennai,Delivered
+ORD00625,02-04-2025,CUST0224,Spice Route,South Indian,789.81,17,3.9,Cash on Delivery,Mumbai,Delivered
+ORD00626,03-12-2025,CUST0126,Biryani House,Beverages,424.6,,,UPI,Hyderabad,Pending
+ORD00627,07-01-2025,CUST0239,Deccan Delicacies,South Indian,765.92,,,UPI,Pune,Pending
+ORD00628,04-07-2025,CUST0143,Bengal Bhoj,North Indian,1256.63,48,2.6,UPI,Kolkata,Delivered
+ORD00629,05-06-2025,CUST0020,Puneri Kitchen,South Indian,259.69,0,,Wallet,Pune,Cancelled
+ORD00630,17-07-2025,CUST0049,Puneri Kitchen,Fast Food,906.64,0,,Wallet,Pune,Cancelled
+ORD00631,13-10-2025,CUST0107,Paratha Point,Beverages,1050.8,,,Cash on Delivery,Delhi,Pending
+ORD00632,23-02-2025,CUST0043,Filter Coffee Co,Pizza,816.48,,,Credit Card,Bangalore,Pending
+ORD00633,01-10-2025,CUST0154,Sabarmati Snacks,Beverages,879.11,69,3.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00634,15-06-2025,CUST0156,Puneri Kitchen,Street Food,415.22,50,4.8,Debit Card,Pune,Delivered
+ORD00635,04-07-2025,CUST0247,Dhokla Den,Pizza,120.27,33,4,Wallet,Ahmedabad,Delivered
+ORD00636,11-03-2025,CUST0228,Biryani House,Desserts,1478.46,0,,Debit Card,Hyderabad,Cancelled
+ORD00637,12-01-2025,CUST0198,Pearl City Eats,Street Food,887.73,24,2.7,Cash on Delivery,Hyderabad,Delivered
+ORD00638,02-07-2025,CUST0040,Silicon Spice,Beverages,1347.68,0,,Credit Card,Bangalore,Cancelled
+ORD00639,12-05-2025,CUST0208,Biryani House,Continental,671.72,0,,UPI,Hyderabad,Cancelled
+ORD00640,16-06-2025,CUST0203,Gujarati Thali House,Biryani,1259.47,,,Wallet,Ahmedabad,Pending
+ORD00641,18-02-2025,CUST0153,Biryani House,Continental,646.53,18,4.8,Debit Card,Hyderabad,Delivered
+ORD00642,28-06-2025,CUST0226,Mishti Corner,South Indian,1320.31,0,,Wallet,Kolkata,Cancelled
+ORD00643,06-01-2025,CUST0163,Kolkata Kathi Rolls,Desserts,843.65,49,3.9,Debit Card,Kolkata,Delivered
+ORD00644,15-09-2025,CUST0179,Misal House,North Indian,1049.62,43,4.4,Wallet,Pune,Delivered
+ORD00645,16-09-2025,CUST0024,Deccan Delicacies,Desserts,1205.19,0,,Credit Card,Pune,Cancelled
+ORD00646,22-06-2025,CUST0022,Kathiyawadi Kitchen,North Indian,876.45,20,3.5,Cash on Delivery,Ahmedabad,Delivered
+ORD00647,24-12-2025,CUST0034,Garden City Grill,Street Food,393.39,56,3.9,Wallet,Bangalore,Delivered
+ORD00648,12-11-2025,CUST0189,Misal House,South Indian,487.43,35,4.2,Wallet,Pune,Delivered
+ORD00649,15-02-2025,CUST0029,Mishti Corner,Beverages,600.66,37,4,UPI,Kolkata,Delivered
+ORD00650,06-06-2025,CUST0044,Idli Express,Biryani,979.99,17,4.8,Credit Card,Chennai,Delivered
+ORD00651,13-04-2025,CUST0176,Marina Meals,South Indian,275.07,30,4.9,Credit Card,Chennai,Delivered
+ORD00652,28-05-2025,CUST0004,Chennai Chettinad,Desserts,741.08,36,3,Wallet,Chennai,Delivered
+ORD00653,19-04-2025,CUST0053,Pearl City Eats,Biryani,979.8,0,,UPI,Hyderabad,Cancelled
+ORD00654,12-07-2025,CUST0150,The Curry Leaf,Chinese,202.95,0,,Wallet,Mumbai,Cancelled
+ORD00655,19-05-2025,CUST0014,Ahmedabad Chaat,South Indian,656.33,57,4.6,Debit Card,Ahmedabad,Delivered
+ORD00656,25-02-2025,CUST0005,Hyderabadi Hut,Fast Food,1472.11,60,2.7,Debit Card,Hyderabad,Delivered
+ORD00657,06-09-2025,CUST0222,Karim's Corner,Fast Food,810.9,50,4.8,UPI,Delhi,Delivered
+ORD00658,21-01-2025,CUST0064,Nizam's Kitchen,Biryani,662.89,0,,UPI,Hyderabad,Cancelled
+ORD00659,27-06-2025,CUST0176,South Curry Co,Desserts,445.96,32,4.5,Debit Card,Chennai,Delivered
+ORD00660,18-07-2025,CUST0228,Pav Bhaji Junction,Desserts,431.3,72,3.5,Credit Card,Mumbai,Delivered
+ORD00661,14-02-2025,CUST0187,Howrah Hotpot,Continental,1324.33,,,Credit Card,Kolkata,Pending
+ORD00662,02-08-2025,CUST0062,Garden City Grill,Desserts,1375.43,43,3.9,Credit Card,Bangalore,Delivered
+ORD00663,01-12-2025,CUST0036,Misal House,Desserts,1070.17,73,2.8,Credit Card,Pune,Delivered
+ORD00664,02-12-2025,CUST0239,Silicon Spice,South Indian,889.13,,,UPI,Bangalore,Pending
+ORD00665,05-04-2025,CUST0082,Namma Bengaluru Cafe,Beverages,1334.58,41,3.3,Debit Card,Bangalore,Delivered
+ORD00666,19-03-2025,CUST0200,Pune Punch,Chinese,374.95,54,4,Wallet,Pune,Delivered
+ORD00667,18-10-2025,CUST0157,Puneri Kitchen,Fast Food,438.66,37,2.7,Cash on Delivery,Pune,Delivered
+ORD00668,10-03-2025,CUST0129,Sabarmati Snacks,Chinese,1295.94,45,2.8,Credit Card,Ahmedabad,Delivered
+ORD00669,26-04-2025,CUST0009,Kolkata Kathi Rolls,Desserts,1431.27,0,,Credit Card,Kolkata,Cancelled
+ORD00670,15-04-2025,CUST0017,Garden City Grill,Continental,796.12,70,3.6,Credit Card,Bangalore,Delivered
+ORD00671,07-08-2025,CUST0104,Pav Bhaji Junction,Pizza,1113.88,54,4.8,Wallet,Mumbai,Delivered
+ORD00672,01-11-2025,CUST0138,Pav Bhaji Junction,South Indian,743.22,71,2.6,Credit Card,Mumbai,Delivered
+ORD00673,23-09-2025,CUST0138,Kolkata Kathi Rolls,Street Food,654.61,55,4.9,Credit Card,Kolkata,Delivered
+ORD00674,30-05-2025,CUST0113,Bengal Bhoj,Desserts,756.66,33,4,UPI,Kolkata,Delivered
+ORD00675,20-12-2025,CUST0133,Garden City Grill,Biryani,244.81,22,2.9,Wallet,Bangalore,Delivered
+ORD00676,23-12-2025,CUST0140,Garden City Grill,Pizza,566.38,26,3.6,Credit Card,Bangalore,Delivered
+ORD00677,21-08-2025,CUST0024,Nizam's Kitchen,Chinese,1111.36,20,2.8,Cash on Delivery,Hyderabad,Delivered
+ORD00678,21-11-2025,CUST0093,Paratha Point,Pizza,1123.09,54,4.9,Cash on Delivery,Delhi,Delivered
+ORD00679,09-10-2025,CUST0098,Spice Route,Beverages,900.38,,,Credit Card,Mumbai,Pending
+ORD00680,25-03-2025,CUST0223,Dosa Delight,North Indian,699.02,61,4.4,Cash on Delivery,Bangalore,Delivered
+ORD00681,28-05-2025,CUST0161,Namma Bengaluru Cafe,Chinese,1445.4,54,4.4,UPI,Bangalore,Delivered
+ORD00682,23-08-2025,CUST0128,Kathiyawadi Kitchen,North Indian,959.02,30,3,Cash on Delivery,Ahmedabad,Delivered
+ORD00683,21-08-2025,CUST0105,Ahmedabad Chaat,Continental,948.14,0,,Wallet,Ahmedabad,Cancelled
+ORD00684,23-05-2025,CUST0159,Pune Punch,Chinese,324.59,,,Debit Card,Pune,Pending
+ORD00685,19-01-2025,CUST0038,Pav Bhaji Junction,Continental,531.85,18,2.8,Credit Card,Mumbai,Delivered
+ORD00686,24-03-2025,CUST0173,Pearl City Eats,Continental,909.75,26,4.9,Wallet,Hyderabad,Delivered
+ORD00687,04-07-2025,CUST0239,Bombay Bites,Desserts,565.49,67,2.7,Cash on Delivery,Mumbai,Delivered
+ORD00688,09-10-2025,CUST0017,Hyderabadi Hut,Chinese,288.39,32,3.3,Cash on Delivery,Hyderabad,Delivered
+ORD00689,26-09-2025,CUST0054,Puneri Kitchen,North Indian,270.84,,,Wallet,Pune,Pending
+ORD00690,14-02-2025,CUST0124,Hyderabadi Hut,Continental,1289.96,48,3.9,Wallet,Hyderabad,Delivered
+ORD00691,01-07-2025,CUST0238,Filter Coffee Co,Continental,805.03,,,Cash on Delivery,Bangalore,Pending
+ORD00692,10-09-2025,CUST0207,Filter Coffee Co,Fast Food,1097.85,0,,UPI,Bangalore,Cancelled
+ORD00693,02-03-2025,CUST0007,Ahmedabad Chaat,Fast Food,1223.4,41,2.6,Debit Card,Ahmedabad,Delivered
+ORD00694,14-10-2025,CUST0207,Pune Punch,Fast Food,1072.22,65,2.7,Debit Card,Pune,Delivered
+ORD00695,17-09-2025,CUST0141,Chennai Chettinad,South Indian,1066.45,40,4.3,Wallet,Chennai,Delivered
+ORD00696,15-01-2025,CUST0214,Dosa Delight,Beverages,1270.68,,,Cash on Delivery,Bangalore,Pending
+ORD00697,31-08-2025,CUST0205,Spice Route,Biryani,334.43,72,4.7,Debit Card,Mumbai,Delivered
+ORD00698,25-08-2025,CUST0201,Kolkata Kathi Rolls,Street Food,533.09,,,Debit Card,Kolkata,Pending
+ORD00699,12-10-2025,CUST0138,Spice Route,Continental,1065.98,73,4.7,Debit Card,Mumbai,Delivered
+ORD00700,03-02-2025,CUST0249,Silicon Spice,North Indian,588.03,55,3.8,Credit Card,Bangalore,Delivered
+ORD00701,20-10-2025,CUST0156,Park Street Eats,Continental,281.25,63,3.3,Debit Card,Kolkata,Delivered
+ORD00702,30-12-2025,CUST0009,Hyderabadi Hut,South Indian,805.94,0,,Debit Card,Hyderabad,Cancelled
+ORD00703,20-08-2025,CUST0213,Charminar Chow,Street Food,537.2,38,4.5,Credit Card,Hyderabad,Delivered
+ORD00704,17-02-2025,CUST0114,Sea View Kitchen,Street Food,332.63,74,3.7,Wallet,Mumbai,Delivered
+ORD00705,08-06-2025,CUST0199,Marina Meals,South Indian,1254.55,58,5,Credit Card,Chennai,Delivered
+ORD00706,19-01-2025,CUST0118,Howrah Hotpot,South Indian,125.67,58,4.6,UPI,Kolkata,Delivered
+ORD00707,20-06-2025,CUST0120,Bombay Bites,Street Food,1177.33,,,Debit Card,Mumbai,Pending
+ORD00708,12-01-2025,CUST0148,Charminar Chow,Beverages,396.77,32,3.8,Cash on Delivery,Hyderabad,Delivered
+ORD00709,10-12-2025,CUST0031,Charminar Chow,Chinese,497.62,54,3.9,UPI,Hyderabad,Delivered
+ORD00710,16-04-2025,CUST0139,Idli Express,Beverages,494.05,,,Debit Card,Chennai,Pending
+ORD00711,21-10-2025,CUST0063,Namma Bengaluru Cafe,Desserts,966.3,49,3.6,Credit Card,Bangalore,Delivered
+ORD00712,15-01-2025,CUST0121,Bombay Bites,Pizza,194.24,40,2.9,Wallet,Mumbai,Delivered
+ORD00713,31-10-2025,CUST0162,Kathiyawadi Kitchen,Beverages,551.17,27,4.3,Wallet,Ahmedabad,Delivered
+ORD00714,10-02-2025,CUST0250,Kathiyawadi Kitchen,Chinese,248.22,73,4.2,UPI,Ahmedabad,Delivered
+ORD00715,22-08-2025,CUST0080,Dhokla Den,Fast Food,1427.48,0,,Wallet,Ahmedabad,Cancelled
+ORD00716,13-05-2025,CUST0234,Filter Kaapi Corner,Chinese,1085.47,,,Debit Card,Chennai,Pending
+ORD00717,16-06-2025,CUST0117,Ahmedabad Chaat,South Indian,775.96,45,3.7,Credit Card,Ahmedabad,Delivered
+ORD00718,25-05-2025,CUST0197,Idli Express,Continental,295.8,40,4.5,UPI,Chennai,Delivered
+ORD00719,16-06-2025,CUST0143,Chandni Chowk Eats,Street Food,756.15,41,3.1,Credit Card,Delhi,Delivered
+ORD00720,08-10-2025,CUST0041,Dhokla Den,South Indian,590.19,59,4,Cash on Delivery,Ahmedabad,Delivered
+ORD00721,18-10-2025,CUST0202,Idli Express,Fast Food,358.86,,,UPI,Chennai,Pending
+ORD00722,31-12-2025,CUST0147,Ahmedabad Chaat,Continental,942.58,50,2.7,Cash on Delivery,Ahmedabad,Delivered
+ORD00723,01-04-2025,CUST0079,Kolkata Kathi Rolls,Continental,270.07,53,4.4,Cash on Delivery,Kolkata,Delivered
+ORD00724,17-06-2025,CUST0127,Bombay Bites,Fast Food,1247.51,72,4.4,UPI,Mumbai,Delivered
+ORD00725,17-03-2025,CUST0170,Garden City Grill,Street Food,522.27,51,3.6,Credit Card,Bangalore,Delivered
+ORD00726,15-12-2025,CUST0225,South Curry Co,Continental,1216.2,,,Debit Card,Chennai,Pending
+ORD00727,11-08-2025,CUST0184,Chennai Chettinad,Continental,131.2,40,4.6,Debit Card,Chennai,Delivered
+ORD00728,01-02-2025,CUST0095,Bombay Bites,Street Food,1252.64,22,4.7,UPI,Mumbai,Delivered
+ORD00729,01-05-2025,CUST0111,Bengal Bhoj,Pizza,680.33,49,3,Credit Card,Kolkata,Delivered
+ORD00730,01-09-2025,CUST0036,Puneri Kitchen,Pizza,1283.79,68,3.5,Debit Card,Pune,Delivered
+ORD00731,10-12-2025,CUST0033,Namma Bengaluru Cafe,South Indian,1014.78,0,,Cash on Delivery,Bangalore,Cancelled
+ORD00732,03-12-2025,CUST0112,Namma Bengaluru Cafe,Chinese,1006.3,70,3.6,Wallet,Bangalore,Delivered
+ORD00733,06-08-2025,CUST0160,Garden City Grill,Street Food,705.29,43,3.5,Credit Card,Bangalore,Delivered
+ORD00734,06-04-2025,CUST0109,Pav Bhaji Junction,Biryani,1288.59,0,,Wallet,Mumbai,Cancelled
+ORD00735,18-05-2025,CUST0106,Chennai Chettinad,North Indian,904.05,,,Debit Card,Chennai,Pending
+ORD00736,27-02-2025,CUST0149,Ahmedabad Chaat,Chinese,1127.66,69,5,Debit Card,Ahmedabad,Delivered
+ORD00737,27-08-2025,CUST0133,Paratha Point,Continental,242.06,55,4.4,UPI,Delhi,Delivered
+ORD00738,17-12-2025,CUST0163,Pearl City Eats,North Indian,1366.95,64,2.5,Cash on Delivery,Hyderabad,Delivered
+ORD00739,20-09-2025,CUST0232,Kathiyawadi Kitchen,Beverages,701,33,3.2,UPI,Ahmedabad,Delivered
+ORD00740,22-12-2025,CUST0237,Pearl City Eats,Desserts,204.76,52,2.9,UPI,Hyderabad,Delivered
+ORD00741,03-12-2025,CUST0075,The Curry Leaf,Biryani,233.86,19,4.6,Debit Card,Mumbai,Delivered
+ORD00742,10-05-2025,CUST0034,Nizam's Kitchen,Desserts,139.6,53,2.9,Wallet,Hyderabad,Delivered
+ORD00743,19-03-2025,CUST0169,Sabarmati Snacks,Chinese,480.53,,,Credit Card,Ahmedabad,Pending
+ORD00744,06-09-2025,CUST0047,The Curry Leaf,South Indian,1454.94,74,4.6,Cash on Delivery,Mumbai,Delivered
+ORD00745,31-07-2025,CUST0198,Park Street Eats,Biryani,1121.88,0,,Credit Card,Kolkata,Cancelled
+ORD00746,23-10-2025,CUST0188,Chennai Chettinad,Desserts,1162.57,18,2.9,Cash on Delivery,Chennai,Delivered
+ORD00747,01-09-2025,CUST0078,Kathiyawadi Kitchen,Fast Food,644.13,,,Cash on Delivery,Ahmedabad,Pending
+ORD00748,31-08-2025,CUST0068,Filter Coffee Co,Pizza,136.37,43,3.5,Debit Card,Bangalore,Delivered
+ORD00749,29-09-2025,CUST0175,Bombay Bites,Street Food,999.65,42,4,Debit Card,Mumbai,Delivered
+ORD00750,21-06-2025,CUST0070,Biryani House,Desserts,1022.99,44,4.4,Credit Card,Hyderabad,Delivered
+ORD00751,11-12-2025,CUST0151,Puneri Kitchen,Beverages,1055.25,0,,Debit Card,Pune,Cancelled
+ORD00752,08-10-2025,CUST0003,Bombay Bites,North Indian,687.52,21,4.2,Debit Card,Mumbai,Delivered
+ORD00753,23-04-2025,CUST0186,Nizam's Kitchen,Fast Food,166.98,20,2.6,Wallet,Hyderabad,Delivered
+ORD00754,03-12-2025,CUST0229,Puneri Kitchen,South Indian,1097.14,20,4.6,Credit Card,Pune,Delivered
+ORD00755,12-07-2025,CUST0169,Namma Bengaluru Cafe,Chinese,469.6,57,4.8,Cash on Delivery,Bangalore,Delivered
+ORD00756,22-05-2025,CUST0197,Bengal Bhoj,Desserts,343.51,32,4.4,Cash on Delivery,Kolkata,Delivered
+ORD00757,18-07-2025,CUST0086,The Curry Leaf,Desserts,365.54,46,4.9,Credit Card,Mumbai,Delivered
+ORD00758,09-11-2025,CUST0101,Garden City Grill,South Indian,318.54,42,3,UPI,Bangalore,Delivered
+ORD00759,15-08-2025,CUST0184,Biryani House,North Indian,220.63,61,3.1,Cash on Delivery,Hyderabad,Delivered
+ORD00760,10-01-2025,CUST0230,Gujarati Thali House,North Indian,1407.39,,,Cash on Delivery,Ahmedabad,Pending
+ORD00761,17-05-2025,CUST0039,Filter Kaapi Corner,Continental,125.11,,,Cash on Delivery,Chennai,Pending
+ORD00762,02-09-2025,CUST0112,Kolkata Kathi Rolls,Street Food,431.67,59,4.5,Cash on Delivery,Kolkata,Delivered
+ORD00763,04-03-2025,CUST0146,South Curry Co,Desserts,672.85,,,UPI,Chennai,Pending
+ORD00764,07-07-2025,CUST0137,Chennai Chettinad,Biryani,1169.43,56,3,Wallet,Chennai,Delivered
+ORD00765,21-01-2025,CUST0248,Park Street Eats,Desserts,1080.32,55,4.2,Cash on Delivery,Kolkata,Delivered
+ORD00766,13-02-2025,CUST0227,Gujarati Thali House,Chinese,169.26,61,5,Credit Card,Ahmedabad,Delivered
+ORD00767,08-09-2025,CUST0100,Paratha Point,Desserts,809.56,66,3.6,UPI,Delhi,Delivered
+ORD00768,19-01-2025,CUST0087,The Curry Leaf,North Indian,679.6,0,,Wallet,Mumbai,Cancelled
+ORD00769,23-08-2025,CUST0241,Filter Coffee Co,Fast Food,1396.25,62,2.9,UPI,Bangalore,Delivered
+ORD00770,30-08-2025,CUST0233,Spice Route,Chinese,139.82,,,UPI,Mumbai,Pending
+ORD00771,07-06-2025,CUST0211,Butter Chicken House,Continental,355.55,19,4.5,UPI,Delhi,Delivered
+ORD00772,28-02-2025,CUST0128,Pune Punch,Fast Food,708.17,68,5,Cash on Delivery,Pune,Delivered
+ORD00773,16-06-2025,CUST0031,Silicon Spice,Fast Food,1174.63,26,3.3,UPI,Bangalore,Delivered
+ORD00774,21-05-2025,CUST0037,Park Street Eats,Beverages,883.7,30,4.8,UPI,Kolkata,Delivered
+ORD00775,10-03-2025,CUST0026,Park Street Eats,North Indian,1333.89,15,2.5,UPI,Kolkata,Delivered
+ORD00776,28-12-2025,CUST0167,Hyderabadi Hut,Biryani,1075.45,0,,Credit Card,Hyderabad,Cancelled
+ORD00777,24-11-2025,CUST0070,Dhokla Den,Fast Food,1414.56,59,2.6,Credit Card,Ahmedabad,Delivered
+ORD00778,13-09-2025,CUST0157,Chandni Chowk Eats,Beverages,697.92,30,3,Wallet,Delhi,Delivered
+ORD00779,18-02-2025,CUST0159,Idli Express,Street Food,422.6,55,4.1,Debit Card,Chennai,Delivered
+ORD00780,28-01-2025,CUST0050,Karim's Corner,Biryani,806.57,0,,UPI,Delhi,Cancelled
+ORD00781,28-01-2025,CUST0166,South Curry Co,Fast Food,719.85,54,4.5,Cash on Delivery,Chennai,Delivered
+ORD00782,23-01-2025,CUST0027,Pav Bhaji Junction,Chinese,338.1,46,3.8,UPI,Mumbai,Delivered
+ORD00783,01-05-2025,CUST0185,Kathiyawadi Kitchen,Continental,569.84,0,,Debit Card,Ahmedabad,Cancelled
+ORD00784,28-04-2025,CUST0200,Chandni Chowk Eats,Fast Food,255.33,,,Cash on Delivery,Delhi,Pending
+ORD00785,13-04-2025,CUST0097,Pune Punch,Biryani,927.43,71,3.6,Credit Card,Pune,Delivered
+ORD00786,09-11-2025,CUST0117,Garden City Grill,Beverages,308.24,,,Credit Card,Bangalore,Pending
+ORD00787,20-11-2025,CUST0092,Charminar Chow,Beverages,295.55,,,Wallet,Hyderabad,Pending
+ORD00788,31-01-2025,CUST0072,Namma Bengaluru Cafe,Biryani,752.84,0,,Debit Card,Bangalore,Cancelled
+ORD00789,23-04-2025,CUST0227,Pearl City Eats,Chinese,1209.57,,,Wallet,Hyderabad,Pending
+ORD00790,29-03-2025,CUST0148,Pune Punch,Pizza,1302.62,70,5,Wallet,Pune,Delivered
+ORD00791,31-08-2025,CUST0215,Sabarmati Snacks,North Indian,1127.42,,,Credit Card,Ahmedabad,Pending
+ORD00792,07-05-2025,CUST0084,Howrah Hotpot,Fast Food,1350.72,75,2.9,Wallet,Kolkata,Delivered
+ORD00793,03-01-2025,CUST0107,Bombay Bites,Biryani,1132.2,17,3.6,Cash on Delivery,Mumbai,Delivered
+ORD00794,03-09-2025,CUST0208,Butter Chicken House,Biryani,451.91,63,2.5,Cash on Delivery,Delhi,Delivered
+ORD00795,22-04-2025,CUST0034,South Curry Co,Fast Food,1013.74,16,3.7,Debit Card,Chennai,Delivered
+ORD00796,24-03-2025,CUST0181,Kathiyawadi Kitchen,Continental,153.69,44,4.4,Cash on Delivery,Ahmedabad,Delivered
+ORD00797,05-04-2025,CUST0203,Filter Kaapi Corner,North Indian,1307.33,39,4.7,Debit Card,Chennai,Delivered
+ORD00798,29-09-2025,CUST0009,Hyderabadi Hut,Desserts,1083.32,49,3.9,Credit Card,Hyderabad,Delivered
+ORD00799,17-12-2025,CUST0021,Chennai Chettinad,Street Food,1424.54,,,Debit Card,Chennai,Pending
+ORD00800,27-01-2025,CUST0029,Bengal Bhoj,Biryani,974.4,38,2.9,Wallet,Kolkata,Delivered
